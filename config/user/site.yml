@@ -30,6 +30,15 @@ social:
   - name: Youtube
     url: https://www.youtube.com/
     icon: fa-brands fa-youtube
+  - name: TikTok
+    url: https://www.tiktok.com/
+    icon: fa-brands fa-tiktok
+  - name: Spotify
+    url: https://open.spotify.com/
+    icon: fa-brands fa-spotify
+  - name: Facebook
+    url: https://www.facebook.com/
+    icon: fa-brands fa-facebook
   - name: Telegram
     url: https://t.me
     icon: fab fa-telegram
