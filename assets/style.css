@@ -21,7 +21,7 @@
     --nav-item-color: #a1a2a5;
     --success-color: #4caf50;
     --error-color: #f44336;
-    --white-color: #ffffff;
+    --white-color: linear-gradient(135deg, #4a9eff 0%, #a855f7 50%, #ff6b6b 100%);
     --gradient-color: linear-gradient(135deg, #4a9eff 0%, #a855f7 50%, #ff6b6b 100%);
     --gradient-color-simple: linear-gradient(135deg, #4a9eff 0%, #a855f7 100%);
     --sidebar-width: 240px;
