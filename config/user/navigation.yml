@@ -8,6 +8,9 @@
 - name: 工具
   icon: fa-solid fa-wrench
   id: tool
+- name: 娱乐
+  icon: fa-solid fa-face-smile
+  id: entertainment
 - name: 文章
   icon: fas fa-book
   id: articles
