@@ -1,8 +1,8 @@
-title: 我的导航
-description: 个人网络导航站
-author: Your Name
+title: 资源站
+description: 个人网络资源站
+author: yufeng
 favicon: favicon.ico
-logo_text: 导航站
+logo_text: 资源站
 
 fonts:
   title:
@@ -20,13 +20,16 @@ fonts:
     
 profile:
   title: Hello,
-  subtitle: Welcome to My Navigation
+  subtitle: Welcome to My resource centre[太阳]
   description: 导航菜单
 
 social:
   - name: GitHub
     url: https://github.com
     icon: fab fa-github
+  - name: Youtube
+    url: https://www.youtube.com/
+    icon: fa-brands fa-youtube
   - name: Telegram
     url: https://t.me
     icon: fab fa-telegram
