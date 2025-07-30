@@ -8,18 +8,22 @@ categories:
   - name: 个人项目
     icon: fas fa-code
     sites:
-      - name: 个人导航站
-        icon: fas fa-compass
-        description: 一个简洁美观的个人导航页面
-        url: "#"
-      - name: Todo List
-        icon: fas fa-tasks
-        description: 基于Vue3的待办事项管理器
-        url: "#"
       - name: 个人博客
         icon: fas fa-blog
-        description: 使用Hexo搭建的技术博客
-        url: "#"
+        description: 个人bolg
+        url: "https://bento.me/yufengxiang"
+      - name: MoonTV
+        icon: fas fa-compass
+        description: 聚合影视搜索观影平台
+        url: "https://itv.mvpbook.cn/"
+      - name: LibreTV
+        icon: fas fa-tasks
+        description: 聚合影视搜索观影平台
+        url: "https://ys.mvpbook.cn/"
+      - name: 个人图床
+        icon: fas fa-blog
+        description: 使用telegram搭建的图床
+        url: "https://tuku.mvpbook.cn/"
   - name: 开源贡献
     icon: fas fa-code-branch
     sites:
