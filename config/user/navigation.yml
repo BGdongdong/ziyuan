@@ -7,7 +7,7 @@
   id: projects
 - name: 工具
   icon: fa-solid fa-wrench
-  id: means
+  id: tool
 - name: 文章
   icon: fas fa-book
   id: articles
