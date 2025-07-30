@@ -1,5 +1,5 @@
 title: 我的项目
-subtitle: 这里展示了我的一些个人项目和开源贡献
+subtitle: 这里展示了我的一些个人项目
 
 # 指定使用的模板文件名，现有页面模板可见templates\pages
 template: projects
@@ -13,14 +13,14 @@ categories:
         description: 个人bolg
         url: "https://bento.me/yufengxiang"
       - name: MoonTV
-        icon: fas fa-compass
+        icon: fa-solid fa-film
         description: 聚合影视搜索观影平台
         url: "https://itv.mvpbook.cn/"
       - name: LibreTV
-        icon: fas fa-tasks
+        icon: fa-solid fa-magnifying-glass
         description: 聚合影视搜索观影平台
         url: "https://ys.mvpbook.cn/"
       - name: 个人图床
-        icon: fas fa-blog
+        icon: fa-solid fa-image
         description: 使用telegram搭建的图床
         url: "https://tuku.mvpbook.cn/"
