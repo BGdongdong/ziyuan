@@ -5,6 +5,8 @@
 - name: 项目
   icon: fas fa-project-diagram
   id: projects
+- name: 工具
+  icon: fa-solid fa-wrench
 - name: 文章
   icon: fas fa-book
   id: articles
