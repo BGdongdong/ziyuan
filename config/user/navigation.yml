@@ -9,7 +9,7 @@
   icon: fa-solid fa-wrench
   id: tool
 - name: 资源
-  icon: fa-solid fa-atom-simple
+  icon: fa-solid fa-database
   id: resource
 - name: 娱乐
   icon: fa-solid fa-face-smile
