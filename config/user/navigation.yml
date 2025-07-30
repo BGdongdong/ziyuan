@@ -10,7 +10,7 @@
   id: means
 - name: 文章
   icon: fas fa-book
-  id: book
+  id: articles
 - name: 朋友
   icon: fas fa-users
   id: friends
