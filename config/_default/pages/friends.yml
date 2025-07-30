@@ -5,17 +5,17 @@ subtitle: 优秀的博主和朋友们
 template: friends
 
 categories:
-  - name: 技术博主
+  - name: 优质博主
     icon: fas fa-user-friends
     sites:
-      - name: 小明的博客
+      - name: 零度博客
         icon: fas fa-code
-        description: 全栈开发工程师，分享技术心得
-        url: "#"
-      - name: 小红的前端
+        description: 专注于分享免费、实用软件和有趣的网站、探索AI 黑科技与最新前沿的IT技术动态，帮助用户提升技术水平
+        url: "https://www.freedidi.com/"
+      - name: 悟空百科
         icon: fas fa-paint-brush
-        description: 专注前端开发与设计
-        url: "#"
+        description: 分享各类技术或资源
+        url: "https://didiboy0702.gitbook.io/wukongdaily"
       - name: 小张的后端
         icon: fas fa-server
         description: 分享后端开发经验
