@@ -17,9 +17,9 @@
 - name: 文章
   icon: fas fa-book
   id: articles
-- name: 朋友
+- name: 社区
   icon: fas fa-users
-  id: friends
+  id: Community
 - name: 书签
   icon: fas fa-bookmark
   id: bookmarks 
