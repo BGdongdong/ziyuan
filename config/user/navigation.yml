@@ -8,6 +8,9 @@
 - name: 工具
   icon: fa-solid fa-wrench
   id: tool
+- name: 资源
+  icon: fa-solid fa-atom-simple
+  id: resource
 - name: 娱乐
   icon: fa-solid fa-face-smile
   id: entertainment
