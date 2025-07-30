@@ -24,14 +24,3 @@ categories:
         icon: fas fa-blog
         description: 使用telegram搭建的图床
         url: "https://tuku.mvpbook.cn/"
-  - name: 开源贡献
-    icon: fas fa-code-branch
-    sites:
-      - name: Project A
-        icon: fab fa-github
-        description: 开源项目贡献
-        url: "#"
-      - name: Project B
-        icon: fab fa-github
-        description: 开源项目贡献
-        url: "#" 
