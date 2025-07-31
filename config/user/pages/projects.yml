@@ -24,3 +24,7 @@ categories:
         icon: fa-solid fa-image
         description: 使用telegram搭建的图床
         url: "https://tuku.mvpbook.cn/"
+      - name: 小红书
+        icon: fa-solid fa-image
+        description: 使用telegram搭建的图床
+        url: "https://www.xiaohongshu.com/explore?m_source=itab"
