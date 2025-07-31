@@ -25,7 +25,7 @@
   </tr>
 </table>
 ### 效果图如下
- ![效果展示图，如无法显示，请下载项目查看readmeImages文件夹中的图片](assets\wx-001.png)
+ ![](assets\wx-001.png)
 ## 目录
 
 - [预览](#预览)
