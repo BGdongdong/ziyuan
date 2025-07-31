@@ -25,7 +25,7 @@
   </tr>
 </table>
 ### 效果图如下
-
+<table>
 <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
 
 ## 目录
