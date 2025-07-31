@@ -21,8 +21,8 @@
     <td><b>黑暗主题</b></td>
   </tr>
   <tr>
-    <td><img src="yufeng/img/wx_199.png" alt="明亮主题预览" /></td>
-    <td><img src="BGdongdong/yufeng/img/wx_199.png" alt="黑暗主题预览" /></td>
+    <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
+    <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
   </tr>
 </table>
 
