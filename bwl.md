@@ -22,11 +22,14 @@
   <tr>
     <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
     <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
+    <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
+    <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
   </tr>
 </table>
 ### 效果图如下
-<table>
+<tr>
 <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
+<tr>
 
 ## 目录
 
