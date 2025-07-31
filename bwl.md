@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/favicon.ico" alt="Ziyaun" width="120">
-  <h1>MeNav - 个人资源站</h1>
+  <h1>Ziyuan - 个人资源站</h1>
   <p>
     一个轻量级、高度可定制的个人资源网站
     <br />
@@ -24,7 +24,8 @@
     <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
   </tr>
 </table>
-
+### 效果图如下
+ ![效果展示图，如无法显示，请下载项目查看readmeImages文件夹中的图片](assets\wx-001.png)
 ## 目录
 
 - [预览](#预览)
