@@ -32,5 +32,5 @@ categories:
         description: 实时DNS查询
       - name: DNS.fish
         url: https://buymeacoffee.com/iamairyland
-        icon: https://www.gstatic.com/android/market_images/web/favicon_v3.ico
+        icon: favicon_v3.ico
         description: 实时DNS查询
