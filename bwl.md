@@ -18,7 +18,7 @@
 
 ## 更改流程
 
-[进入徽章网址](https://shields.io/badges)
+[进入徽章网址]<a href=https://shields.io/badges>
 <p>按图片填写执行
 <td><img src="assets\wx-002.png" 
 
