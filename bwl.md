@@ -1,10 +1,9 @@
 <div align="center">
-  <img src="assets/favicon.ico" alt="MarksVault" width="120">
-  <h1>MeNav - 个人导航站</h1>
+  <img src="assets/favicon.ico" alt="Ziyaun" width="120">
+  <h1>MeNav - 个人资源站</h1>
   <p>
-    一个轻量级、高度可定制的个人导航网站生成器
+    一个轻量级、高度可定制的个人资源网站
     <br />
-    <i>⚡ 一键部署 自动化构建 轻松创建属于自己的导航主页</i>
   </p>
 </div>
 
@@ -13,7 +12,7 @@
 [![GitHub stars](https://img.shields.io/github/stars/BGdongdong/ziyuan)](https://github.com/BGdongdong/ziyuan/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/BGdongdong/ziyuan)](https://github.com/BGdongdong/ziyuan/network/members)
 
-## 预览
+## 展示
 
 <table>
   <tr>
@@ -28,7 +27,7 @@
 
 ## 目录
 
-- [预览](#预览--preview)
+- [预览](#预览)
 - [功能特点](#功能特点)
 - [近期更新](#近期更新)
 - [技术栈](#技术栈)
@@ -45,9 +44,9 @@
 - [常见问题](#常见问题)
 - [Star-History](#Star-History)
 
-## 快速预览
+## 预览
 
-[在线访问](https://rbetree.github.io/menav/)
+[在线访问](https://www.mvpbook.cn/)
 
 ## 功能特点
 
