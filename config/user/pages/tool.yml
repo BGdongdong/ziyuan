@@ -5,6 +5,46 @@ subtitle: 个人导航站点
 template: tool
 
 categories:
+  - name: 在线工具
+    icon: fas fa-wrench
+    sites:
+      - name: 在线屏幕测试
+        url: https://lab.luozhinet.com/tool/screentest/
+        icon: fa-solid fa-desktop
+        description: JSON在线编辑器
+      - name: 屏幕测试
+        url: https://test.screamingline.com/
+        icon: fa-solid fa-circle-half-stroke
+        description: JSON在线编辑器
+      - name: Can I Use
+        url: https://caniuse.com
+        icon: fas fa-browser
+        description: 浏览器兼容性查询
+      - name: TinyPNG
+        url: https://tinypng.com
+        icon: fas fa-compress
+        description: 图片压缩工具
+      - name: Carbon
+        url: https://carbon.now.sh
+        icon: fas fa-code
+        description: 代码图片生成器
+      - name: RegExr
+        url: https://regexr.com
+        icon: fas fa-search
+        description: 正则表达式测试
+      - name: Excalidraw
+        url: https://excalidraw.com
+        icon: fas fa-pencil-alt
+        description: 手绘风格图表工具
+      - name: Notion
+        url: https://www.notion.so
+        icon: fas fa-sticky-note
+        description: 多功能笔记工具
+      - name: Grammarly
+        url: https://www.grammarly.com
+        icon: fas fa-spell-check
+        description: 英文语法检查工具
+
   - name: 常用网站
     icon: fas fa-star
     sites:
@@ -145,45 +185,6 @@ categories:
         url: https://www.canva.com
         icon: fas fa-paint-brush
         description: 在线平面设计
-  - name: 在线工具
-    icon: fas fa-wrench
-    sites:
-      - name: JSON Editor
-        url: https://jsoneditoronline.org
-        icon: fas fa-code-branch
-        description: JSON在线编辑器
-      - name: 屏幕测试
-        url: https://test.screamingline.com/
-        icon: fa-solid fa-circle-half-stroke
-        description: JSON在线编辑器
-      - name: Can I Use
-        url: https://caniuse.com
-        icon: fas fa-browser
-        description: 浏览器兼容性查询
-      - name: TinyPNG
-        url: https://tinypng.com
-        icon: fas fa-compress
-        description: 图片压缩工具
-      - name: Carbon
-        url: https://carbon.now.sh
-        icon: fas fa-code
-        description: 代码图片生成器
-      - name: RegExr
-        url: https://regexr.com
-        icon: fas fa-search
-        description: 正则表达式测试
-      - name: Excalidraw
-        url: https://excalidraw.com
-        icon: fas fa-pencil-alt
-        description: 手绘风格图表工具
-      - name: Notion
-        url: https://www.notion.so
-        icon: fas fa-sticky-note
-        description: 多功能笔记工具
-      - name: Grammarly
-        url: https://www.grammarly.com
-        icon: fas fa-spell-check
-        description: 英文语法检查工具
   - name: 云服务平台
     icon: fas fa-cloud
     sites:
