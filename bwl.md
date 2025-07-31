@@ -16,17 +16,10 @@
 
 <table>
   <tr>
-    <td><b>明亮主题</b></td>
-    <td><b>黑暗主题</b></td>
-  </tr>
-  <tr>
     <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
-    <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
-    <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
     <td><img src="assets\wx-001.png" alt="黑暗主题预览" /></td>
   </tr>
 </table>
-### 效果图如下
 <tr>
 <td><img src="assets\wx-001.png" alt="明亮主题预览" /></td>
 <tr>
