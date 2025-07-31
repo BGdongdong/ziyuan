@@ -40,9 +40,9 @@ categories:
         url: https://www.reddit.com
         icon: fab fa-reddit
         description: 社区讨论平台
-  - name: 在线工具
-    icon: fas fa-wrench
-    sites:
+   - name: 在线工具
+     icon: fas fa-wrench
+     sites:
       - name: 屏幕测试
         url: https://test.screamingline.com/
         icon: fa-solid fa-circle-half-stroke
