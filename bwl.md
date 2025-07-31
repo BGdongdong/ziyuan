@@ -12,13 +12,14 @@
 [![GitHub stars](https://img.shields.io/github/stars/BGdongdong/ziyuan)](https://github.com/BGdongdong/ziyuan/stargazers)
 [![GitHub forks](https://img.shields.io/github/forks/BGdongdong/ziyuan)](https://github.com/BGdongdong/ziyuan/network/members)
 
-## MDm描述符号更改流程
+## MD描述符号更改流程
 
 <td><img src="assets\wx-001.png" 
 
-##流程
+## 更改流程
+
 [进入徽章网址](https://shields.io/badges)
-按图片填写执行
+<p>按图片填写执行
 <td><img src="assets\wx-002.png" 
 
 ## 目录
