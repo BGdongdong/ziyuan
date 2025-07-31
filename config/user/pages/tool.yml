@@ -23,10 +23,14 @@ categories:
         url: https://www.flightradar24.com/
         icon: fa-solid fa-plane
         description: 在线查看追踪全球航班位置
-  - name: 综合网站
+  - name: 网络工具
     icon: fas fa-star
     sites:
       - name: DNS.fish
         url: https://dns.fish/zh-hans/
         icon: fa-solid fa-globe
+        description: 实时DNS查询
+      - name: DNS.fish
+        url: https://dns.fish/zh-hans/
+        icon: https://www.gstatic.com/android/market_images/web/favicon_v3.ico
         description: 实时DNS查询
