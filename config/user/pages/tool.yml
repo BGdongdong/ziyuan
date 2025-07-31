@@ -11,11 +11,11 @@ categories:
       - name: 在线屏幕测试
         url: https://lab.luozhinet.com/tool/screentest/
         icon: fa-solid fa-desktop
-        description: JSON在线编辑器
+        description: 在线屏幕测试
       - name: 屏幕测试
         url: https://test.screamingline.com/
         icon: fa-solid fa-circle-half-stroke
-        description: JSON在线编辑器
+        description: 尖叫直线 屏幕测试
       - name: Can I Use
         url: https://caniuse.com
         icon: fas fa-browser
@@ -44,7 +44,6 @@ categories:
         url: https://www.grammarly.com
         icon: fas fa-spell-check
         description: 英文语法检查工具
-
   - name: 常用网站
     icon: fas fa-star
     sites:
