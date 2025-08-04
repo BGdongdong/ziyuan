@@ -1,6 +1,6 @@
 <div align="center">
   <img src="assets/favicon.ico" alt="MarksVault" width="120">
-  <h1>MeNav - 个人导航站</h1>
+  <h1>ziyuan - 个人资源站</h1>
   <p>
     一个轻量级、高度可定制的个人导航网站生成器
     <br />

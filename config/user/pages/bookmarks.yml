@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-01T00:44:08.996Z
+# 由bookmark-processor.js生成于 2025-08-04T01:46:50.452Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -404,12 +404,24 @@ categories:
         url: https://fontawesome.com/search?q=youtube&amp;o=r
         icon: fas fa-link
         description: ""
+      - name: 计费 - 计划详情 - Cloudinary
+        url: https://console.cloudinary.com/app/c-b98e6ea12422c88fe184a647241feb/settings/upload/presets
+        icon: fas fa-link
+        description: ""
   - name: 网站
     icon: fas fa-folder
     sites:
       - name: rbetree/menav：一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
         url: https://github.com/rbetree/menav?tab=readme-ov-file#%E4%B9%A6%E7%AD%BE%E5%AF%BC%E5%85%A5%E5%8A%9F%E8%83%BD
         icon: fab fa-github
+        description: ""
+      - name: Gitee - 基于 Git 的代码托管和研发协作平台
+        url: https://gitee.com/
+        icon: fas fa-link
+        description: ""
+      - name: OneNav - 网站导航
+        url: https://nav.xuxiny.top/#category-21
+        icon: fas fa-link
         description: ""
   - name: 在线
     icon: fas fa-folder
@@ -3836,6 +3848,10 @@ categories:
         url: https://time.tianqi.com/
         icon: fas fa-link
         description: ""
+      - name: 尖叫直线 屏幕测试 | 永久免费、无广告的专业、易用屏幕测试工具
+        url: https://test.screamingline.com/
+        icon: fas fa-link
+        description: ""
       - name: 在线屏幕测试
         url: https://lab.luozhinet.com/tool/screentest/
         icon: fas fa-link
@@ -4969,10 +4985,6 @@ categories:
         url: https://www.bookstack.cn/
         icon: fas fa-link
         description: ""
-      - name: Gitee - 基于 Git 的代码托管和研发协作平台
-        url: https://gitee.com/
-        icon: fas fa-link
-        description: ""
       - name: 菜鸟教程 - 学的不仅是技术，更是梦想！
         url: https://www.runoob.com/
         icon: fas fa-link
@@ -5922,6 +5934,10 @@ categories:
         url: https://panhub.fun/
         icon: fas fa-link
         description: ""
+      - name: markdown编辑器 - 在线工具
+        url: https://tool.lu/markdown/
+        icon: fas fa-link
+        description: ""
       - name: 零基础小白如何搭建自己的 github.io 个人网站 – Pianfan&#039;s blog
         url: https://pianfan.github.io/build_own_website/
         icon: fab fa-github
@@ -5941,10 +5957,6 @@ categories:
       - name: HTMLPro - 本地版
         url: https://lius99.github.io/HtmlToPage/
         icon: fab fa-github
-        description: ""
-      - name: markdown编辑器 - 在线工具
-        url: https://tool.lu/markdown/
-        icon: fas fa-link
         description: ""
       - name: ICO图标在线转换工具
         url: https://ico.nyaasu.top/
@@ -6056,5 +6068,17 @@ categories:
         description: ""
       - name: 网道 - 互联网开发文档
         url: https://wangdoc.com/
+        icon: fas fa-link
+        description: ""
+      - name: Crowdin：面向敏捷团队的人工智能本地化软件
+        url: https://crowdin.com/
+        icon: fas fa-link
+        description: ""
+      - name: 应用程序性能监控和错误跟踪软件 | Sentry
+        url: https://sentry.io/welcome/
+        icon: fas fa-link
+        description: ""
+      - name: "JSON Editor Online: edit JSON, format JSON, query JSON"
+        url: https://jsoneditoronline.org/
         icon: fas fa-link
         description: ""
