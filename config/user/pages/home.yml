@@ -22,7 +22,7 @@ categories:
         description: 微软必应搜索引擎
       - name: DuckDuckGo
         url: https://duckduckgo.com/
-        icon: fa-solid fa-feather
+        icon: fas fa-duck
         description: 注重用户隐私的搜索引擎
   - name: 常用网站
     icon: fas fa-star
