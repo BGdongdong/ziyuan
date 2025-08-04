@@ -5,6 +5,21 @@ subtitle: 个人导航站点
 template: home
 
 categories:
+  - name: 搜索引擎
+    icon: fa-solid fa-magnifying-glass
+    sites:
+      - name: Google
+        url: https://www.google.com
+        icon: fab fa-google
+        description: 全球最大的搜索引擎
+      - name: Ecosia
+        url: https://www.ecosia.org/
+        icon: fa-solid fa-tree
+        description: 地球上最环保的搜索引擎
+      - name: Bing
+        url: https://www.bing.com/
+        icon: fa fa-bold
+        description: 微软搜索引擎
   - name: 常用网站
     icon: fas fa-star
     sites:
