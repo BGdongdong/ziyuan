@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-04T01:46:50.452Z
+# 由bookmark-processor.js生成于 2025-08-05T00:46:37.860Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -421,6 +421,26 @@ categories:
         description: ""
       - name: OneNav - 网站导航
         url: https://nav.xuxiny.top/#category-21
+        icon: fas fa-link
+        description: ""
+      - name: 免费图标SVG，PNG，ICO或ICNS
+        url: https://icon-icons.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: W3Schools 在线 Web 教程 --- W3Schools Online Web Tutorials
+        url: https://www.w3schools.com/
+        icon: fas fa-link
+        description: ""
+      - name: Bootstrap v5 中文文档 · Bootstrap 是全球最受欢迎的 HTML、CSS 和 JS 前端工具库。 | Bootstrap 中文网
+        url: https://v5.bootcss.com/
+        icon: fas fa-link
+        description: ""
+      - name: Feather – Simply beautiful open source icons
+        url: https://feathericons.com/
+        icon: fas fa-link
+        description: ""
+      - name: 图标库v5 - FontAwesome 字体图标中文Icon
+        url: https://fontawesome.com.cn/v5
         icon: fas fa-link
         description: ""
   - name: 在线
@@ -1276,6 +1296,10 @@ categories:
         description: ""
       - name: 时光图书馆--经典珍藏系列，十年相伴！
         url: https://atimebook.com/
+        icon: fas fa-link
+        description: ""
+      - name: "Anna’s Archive: LibGen (Library Genesis), Sci-Hub, Z-Library in one place - 安娜的档案"
+        url: https://zh.annas-archive.li/
         icon: fas fa-link
         description: ""
       - name: 全国图书馆参考咨询联盟
@@ -5253,6 +5277,10 @@ categories:
         url: https://codernav.com/
         icon: fas fa-link
         description: ""
+      - name: AnywhereAnything - 提高你的搜索效率！
+        url: https://demo.jb51.net/js/2016/html5_AnywhereAnything/
+        icon: fas fa-link
+        description: ""
       - name: 数字素养网|数字素养与技能提升学习社区！www.szsyw.cn
         url: https://szsyw.cn/
         icon: fas fa-link
@@ -5519,6 +5547,14 @@ categories:
         description: ""
       - name: 跟哈工具-免费便捷在线工具站
         url: https://www.genha.com/
+        icon: fas fa-link
+        description: ""
+      - name: Library Genesis官网入口，最新镜像网址-XXS导航
+        url: https://www.xxsnav.com/sites/17472.html
+        icon: fas fa-link
+        description: ""
+      - name: 夸克迅雷网盘资源分享
+        url: https://wangpanziyuan.pages.dev/
         icon: fas fa-link
         description: ""
   - name: 主流
@@ -6068,6 +6104,14 @@ categories:
         description: ""
       - name: 网道 - 互联网开发文档
         url: https://wangdoc.com/
+        icon: fas fa-link
+        description: ""
+      - name: SVGLOGO - 专注收录国内矢量LOGO
+        url: https://svglogo.top/landing
+        icon: fas fa-link
+        description: ""
+      - name: Lucide
+        url: https://lucide.dev/icons/
         icon: fas fa-link
         description: ""
       - name: Crowdin：面向敏捷团队的人工智能本地化软件
