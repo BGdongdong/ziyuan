@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-05T00:51:05.491Z
+# 由bookmark-processor.js生成于 2025-08-05T08:02:25.644Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -6112,6 +6112,18 @@ categories:
         description: ""
       - name: Lucide
         url: https://lucide.dev/icons/
+        icon: fas fa-link
+        description: ""
+      - name: classNames库
+        url: https://ljylwnxx.github.io/2023/12/18/classNames%E5%BA%93/
+        icon: fab fa-github
+        description: ""
+      - name: Starting
+        url: https://gitpod.io/new/#https://github.com/BGdongdong/wahaha-Nav
+        icon: fab fa-github
+        description: ""
+      - name: SEOStudio - 100% 免费在线 SEO、YouTube 和网站管理员工具 – SEOStudio
+        url: https://seostudio.tools/zh
         icon: fas fa-link
         description: ""
       - name: Crowdin：面向敏捷团队的人工智能本地化软件
