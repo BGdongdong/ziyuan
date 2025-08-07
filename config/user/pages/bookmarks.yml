@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-06T03:16:36.659Z
+# 由bookmark-processor.js生成于 2025-08-07T01:05:01.840Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1473,6 +1473,10 @@ categories:
         url: https://www.loecsen.com/zh
         icon: fas fa-link
         description: ""
+      - name: 免费学习 45多种语言
+        url: https://www.lingohut.com/zh
+        icon: fas fa-link
+        description: ""
       - name: 全国大学英语四、六级考试报名网
         url: https://cet-bm.neea.edu.cn/Home/Index.html
         icon: fas fa-link
@@ -2001,6 +2005,10 @@ categories:
     sites:
       - name: Blush：大家都可以用的插图工具
         url: https://blush.design/zh-CN
+        icon: fas fa-link
+        description: ""
+      - name: StoryTribe：面向专业人士的免费在线故事板制作工具
+        url: https://storytribeapp.com/
         icon: fas fa-link
         description: ""
       - name: Free SVG Illustrations For Websites (CC0 Licensed)
@@ -2556,6 +2564,10 @@ categories:
         url: https://encycolorpedia.cn/
         icon: fas fa-link
         description: ""
+      - name: 颜色生成器 – Kigen
+        url: https://kigen.design/color
+        icon: fas fa-link
+        description: ""
       - name: 色彩搜寻 - 为设计师和艺术家提供的调色板
         url: https://www.colorhunt.co/
         icon: fas fa-link
@@ -3009,6 +3021,10 @@ categories:
     sites:
       - name: 装个机 - 专业电脑重装系统指南教程 | 一键重装系统 | Windows/Mac系统安装 - 装个机
         url: https://zhuangit.ababtools.com/
+        icon: fas fa-link
+        description: ""
+      - name: "Windy: 风力图和风力"
+        url: https://www.windy.com/?27.450,-128.760,4
         icon: fas fa-link
         description: ""
       - name: iFixit：免费修理手册
@@ -6124,6 +6140,10 @@ categories:
         description: ""
       - name: SEOStudio - 100% 免费在线 SEO、YouTube 和网站管理员工具 – SEOStudio
         url: https://seostudio.tools/zh
+        icon: fas fa-link
+        description: ""
+      - name: 探索 | Zread
+        url: https://zread.ai/
         icon: fas fa-link
         description: ""
       - name: Crowdin：面向敏捷团队的人工智能本地化软件
