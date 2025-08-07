@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-07T01:05:01.840Z
+# 由bookmark-processor.js生成于 2025-08-07T10:08:20.460Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2578,6 +2578,10 @@ categories:
         description: ""
       - name: 調色盤產生器 | Adobe Color
         url: https://color.adobe.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: Color Hunt - Color Palettes for Designers and Artists
+        url: https://colorhunt.co/
         icon: fas fa-link
         description: ""
   - name: 音频
