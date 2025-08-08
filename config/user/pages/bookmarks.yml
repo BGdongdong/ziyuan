@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-08T02:16:45.760Z
+# 由bookmark-processor.js生成于 2025-08-08T08:50:41.819Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1942,6 +1942,10 @@ categories:
         description: ""
       - name: PurePNG | Free transparent CC0 PNG Image Library
         url: https://purepng.com/
+        icon: fas fa-link
+        description: ""
+      - name: PNG素材网-免费高清透明PNG素材资源分享网站_PNG图片素材下载 PngSucai.Com
+        url: https://www.pngsucai.com/
         icon: fas fa-link
         description: ""
       - name: Free Transparent PNG Images, Stickers &amp; No Background Clipart - StickPNG
@@ -4300,6 +4304,18 @@ categories:
         url: https://www.tpxhm.top/
         icon: fas fa-link
         description: ""
+      - name: 免费 AI 写作、PDF、图像和其他在线工具 - TinyWow
+        url: https://tinywow.com/
+        icon: fas fa-link
+        description: ""
+      - name: (第35期)超实用的网站推荐：LOGO设计网 - 小红书
+        url: https://www.xiaohongshu.com/explore/68940a65000000000400528e?xsec_token=ABGnvga6fA6WHsEHFUMuVkdL_4kbOytfv1HTbrnBXZFV8=&amp;xsec_source=pc_like&amp;m_source=itab
+        icon: fas fa-link
+        description: ""
+      - name: 摄影豌豆|在线照片编辑器
+        url: https://www.photopea.com/
+        icon: fas fa-link
+        description: ""
   - name: 表情包制作
     icon: fas fa-folder
     sites:
@@ -5577,6 +5593,10 @@ categories:
         url: https://wangpanziyuan.pages.dev/
         icon: fas fa-link
         description: ""
+      - name: 非猪ai导航-最好的ai工具集合网站,让你秒变飞猪ai工具箱导航指南,汇聚国内外知名aigc软件服务
+        url: https://feizhuke.com/
+        icon: fas fa-link
+        description: ""
   - name: 主流
     icon: fas fa-folder
     sites:
@@ -6160,5 +6180,9 @@ categories:
         description: ""
       - name: "JSON Editor Online: edit JSON, format JSON, query JSON"
         url: https://jsoneditoronline.org/
+        icon: fas fa-link
+        description: ""
+      - name: 免费字体下载_免费商用字体_免费字体网_自由字体官网
+        url: https://ziyouziti.com/?ref=zhanid.com
         icon: fas fa-link
         description: ""
