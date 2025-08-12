@@ -1,46 +1,23 @@
-<div class="logo">
-  <!-- 纯静态标签，不包含任何 Handlebars 表达式 -->
-  <img src="assets/logo.png" alt="资源站Logo" class="logo-img">
-  <h1>资源站</h1>
-  <button class="sidebar-toggle">
-    <i class="toggle-icon">→</i>
-  </button>
-</div>
-
-<!-- 其他导航内容保持不变 -->
-<div class="sidebar-content custom-scrollbar">
-  {{#each navigation}}
-    {{#if this.separator}}
-      <div class="nav-separator"></div>
-    {{else}}
-      <div class="nav-item-wrapper {{#if this.expanded}}expanded{{/if}}">
-        <a href="{{this.url}}" class="nav-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
-          <span class="icon-container">
-            <i class="{{this.icon}}"></i>
-          </span>
-          <span class="nav-text">{{this.label}}</span>
-          {{#if this.external}}
-            <i class="external-icon">↗</i>
-          {{/if}}
-          {{#if this.children}}
-            <i class="submenu-toggle">▼</i>
-          {{/if}}
+<div data-container="nav-items">
+{{#each this}}
+<div class="nav-item-wrapper">
+    <a href="#" class="nav-item{{#if isActive}} active{{/if}}{{#if active}} active{{/if}}" data-page="{{id}}" data-type="nav-item" data-id="{{id}}" data-name="{{name}}" data-icon="{{icon}}">
+        <div class="icon-container">
+            <i class="{{icon}}"></i>
+        </div>
+        <span class="nav-text" data-editable="nav-item-name">{{name}}</span>
+        {{#if submenu}}<i class="fas fa-chevron-down submenu-toggle"></i>{{/if}}
+    </a>
+    {{#if submenu}}
+    <div class="submenu">
+        {{#each submenu}}
+        <a href="#{{name}}" class="submenu-item" data-page="{{../id}}" data-category="{{name}}">
+            <i class="{{icon}}"></i>
+            <span>{{name}}</span>
         </a>
-        {{#if this.children}}
-          <div class="submenu">
-            {{#each this.children}}
-              <a href="{{this.url}}" class="submenu-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
-                <i class="{{this.icon}}"></i>
-                <span>{{this.label}}</span>
-              </a>
-            {{/each}}
-          </div>
-        {{/if}}
-      </div>
+        {{/each}}
+    </div>
     {{/if}}
-  {{/each}}
 </div>
-
-<div class="copyright">
-  © {{currentYear}} <a href="{{site.url}}">{{site.title}}</a>
-</div>
+{{/each}} 
+</div> 
