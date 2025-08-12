@@ -1,40 +1,47 @@
-<div class="sidebar">
-  <!-- 导航栏头部区域 - 添加Logo -->
-  <div class="logo">
-    <img src="{{ site.logo | asset }}" alt="{{ site.title }} Logo" class="logo-img">
-    <h1>{{ site.title }}</h1>
-    <button class="sidebar-toggle" aria-label="切换侧边栏">
-      <i class="toggle-icon fas fa-chevron-left"></i>
-    </button>
-  </div>
+<div class="logo">
+  <!-- 修正后的 Logo 图片标签 -->
+  <img src="{{ site.logo | asset }}" alt="{{ site.title }} Logo" class="logo-img">
+  <h1>资源站</h1>
+  <button class="sidebar-toggle">
+    <i class="toggle-icon">→</i>
+  </button>
+</div>
 
-  <!-- 原有导航内容保持不变 -->
-  <div class="sidebar-content custom-scrollbar">
-    {{#each navigation}}
-      {{#if this.separator}}
-        <div class="nav-separator"></div>
-      {{else}}
-        <div class="nav-section">
-          {{#if this.title}}
-            <h3 class="section-title">
-              <i class="{{ this.icon }}"></i>
-              <span>{{ this.title }}</span>
-            </h3>
+<!-- 其他导航内容保持不变 -->
+<div class="sidebar-content custom-scrollbar">
+  <!-- 导航项 -->
+  {{#each navigation}}
+    {{#if this.separator}}
+      <div class="nav-separator"></div>
+    {{else}}
+      <div class="nav-item-wrapper {{#if this.expanded}}expanded{{/if}}">
+        <a href="{{ this.url }}" class="nav-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
+          <span class="icon-container">
+            <i class="{{ this.icon }}"></i>
+          </span>
+          <span class="nav-text">{{ this.label }}</span>
+          {{#if this.external}}
+            <i class="external-icon">↗</i>
           {{/if}}
-          <div class="nav-items">
-            {{#each this.items}}
-              {{> nav-item}}
+          {{#if this.children}}
+            <i class="submenu-toggle">▼</i>
+          {{/if}}
+        </a>
+        {{#if this.children}}
+          <div class="submenu">
+            {{#each this.children}}
+              <a href="{{ this.url }}" class="submenu-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
+                <i class="{{ this.icon }}"></i>
+                <span>{{ this.label }}</span>
+              </a>
             {{/each}}
           </div>
-        </div>
-      {{/if}}
-    {{/each}}
-  </div>
-
-  <!-- 底部版权信息 -->
-  <div class="copyright">
-    <p>© {{ dateFormat "YYYY" }} {{ site.author }}</p>
-    <p><a href="https://github.com/BGdongdong/ziyuan" target="_blank" rel="noopener">Ziyuan</a></p>
-  </div>
+        {{/if}}
+      </div>
+    {{/if}}
+  {{/each}}
 </div>
-    
+
+<div class="copyright">
+  © {{ currentYear }} <a href="{{ site.url }}">{{ site.title }}</a>
+</div>
