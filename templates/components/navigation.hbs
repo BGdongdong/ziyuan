@@ -1,6 +1,6 @@
 <div class="logo">
-  <!-- 修正后的 Logo 图片标签 -->
-  <img src="{{ site.logo | asset }}" alt="{{ site.title }} Logo" class="logo-img">
+  <!-- 简化语法，避免解析歧义 -->
+  <img src="{{site.logo | asset}}" alt="资源站 Logo" class="logo-img">
   <h1>资源站</h1>
   <button class="sidebar-toggle">
     <i class="toggle-icon">→</i>
@@ -9,17 +9,16 @@
 
 <!-- 其他导航内容保持不变 -->
 <div class="sidebar-content custom-scrollbar">
-  <!-- 导航项 -->
   {{#each navigation}}
     {{#if this.separator}}
       <div class="nav-separator"></div>
     {{else}}
       <div class="nav-item-wrapper {{#if this.expanded}}expanded{{/if}}">
-        <a href="{{ this.url }}" class="nav-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
+        <a href="{{this.url}}" class="nav-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
           <span class="icon-container">
-            <i class="{{ this.icon }}"></i>
+            <i class="{{this.icon}}"></i>
           </span>
-          <span class="nav-text">{{ this.label }}</span>
+          <span class="nav-text">{{this.label}}</span>
           {{#if this.external}}
             <i class="external-icon">↗</i>
           {{/if}}
@@ -30,9 +29,9 @@
         {{#if this.children}}
           <div class="submenu">
             {{#each this.children}}
-              <a href="{{ this.url }}" class="submenu-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
-                <i class="{{ this.icon }}"></i>
-                <span>{{ this.label }}</span>
+              <a href="{{this.url}}" class="submenu-item {{#if this.active}}active{{/if}}" {{#if this.external}}target="_blank"{{/if}}>
+                <i class="{{this.icon}}"></i>
+                <span>{{this.label}}</span>
               </a>
             {{/each}}
           </div>
@@ -43,5 +42,5 @@
 </div>
 
 <div class="copyright">
-  © {{ currentYear }} <a href="{{ site.url }}">{{ site.title }}</a>
+  © {{currentYear}} <a href="{{site.url}}">{{site.title}}</a>
 </div>
