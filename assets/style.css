@@ -763,55 +763,7 @@ body .content.expanded {
     display: flex;
     animation: fadeIn 0.3s ease-out forwards;
 }
-/* 新增：Logo居左的布局容器 */
-.top-container {
-    display: flex;
-    align-items: center; /* 垂直居中对齐 */
-    gap: 20px; /* Logo与欢迎区的间距 */
-    padding: 20px;
-    flex-wrap: wrap; /* 适配小屏幕 */
-    width: 100%;
-    max-width: 1300px;
-    margin: 0 auto 3.5rem auto;
-}
 
-/* 新增：左侧Logo容器 */
-.logo-container {
-    flex-shrink: 0; /* 防止Logo被压缩 */
-}
-
-/* 新增：Logo图片样式 */
-.site-logo {
-    width: 80px; /* Logo宽度，可按需调整 */
-    height: auto;
-    border-radius: 8px; /* 可选：圆角效果 */
-}
-
-/* 调整：欢迎区域与Logo同排 */
-.welcome-section {
-    flex-grow: 1; /* 占据剩余空间 */
-    padding: 0; /* 清除原有padding，避免布局偏移 */
-    margin: 0; /* 清除原有margin */
-}
-
-/* 调整：分类区域与顶部保持距离 */
-.category {
-    margin-top: 0; /* 清除顶部margin，由top-container控制间距 */
-}
-
-/* 响应式调整 - 小屏幕下Logo在上，欢迎区在下 */
-@media (max-width: 768px) {
-    .top-container {
-        flex-direction: column;
-        align-items: flex-start; /* 小屏幕仍靠左对齐 */
-        padding: 15px;
-        gap: 10px;
-    }
-    
-    .welcome-section h2 {
-        font-size: 1.8rem; /* 小屏幕缩小标题 */
-    }
-}
 /* 欢迎区域 */
 .welcome-section {
     width: 100%;

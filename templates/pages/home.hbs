@@ -1,22 +1,8 @@
-<!-- 顶部布局容器 - 包含左侧Logo和右侧欢迎区 -->
-<div class="top-container">
-    <!-- 左侧Logo -->
-    <div class="logo-container">
-        <img src="assets/{{site.logo}}" alt="资源站Logo" class="site-logo">
-    </div>
-
-    <!-- 右侧欢迎区域 -->
-    <div class="welcome-section">
-        <h2 data-editable="profile-title">{{profile.title}}</h2>
-        <h3 data-editable="profile-subtitle">{{profile.subtitle}}</h3>
-        <p class="subtitle" data-editable="profile-description">{{profile.description}}</p>
-    </div>
+<div class="welcome-section">
+    <h2 data-editable="profile-title">{{profile.title}}</h2>
+    <h3 data-editable="profile-subtitle">{{profile.subtitle}}</h3>
+    <p class="subtitle" data-editable="profile-description">{{profile.description}}</p>
 </div>
-
-<!-- 分类内容区域 -->
-<div class="categories-container">
-    {{#each categories}}
-        {{> category}}
-    {{/each}}
-</div>
-    
+{{#each categories}}
+    {{> category}}
+{{/each}} 
