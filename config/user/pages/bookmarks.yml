@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-08T08:50:41.819Z
+# 由bookmark-processor.js生成于 2025-08-12T06:20:38.772Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -798,6 +798,10 @@ categories:
     sites:
       - name: 桌游合集 - game.hullqin.cn
         url: https://game.hullqin.cn/
+        icon: fas fa-link
+        description: ""
+      - name: PCOL - SNOOKER
+        url: http://www.heyzxz.me/pcol/
         icon: fas fa-link
         description: ""
       - name: 适合所有年龄的免费线上游戏 - 今天就来体验！ - Y8.com
@@ -2588,6 +2592,10 @@ categories:
         url: https://colorhunt.co/
         icon: fas fa-link
         description: ""
+      - name: ColorSpace - Color Palettes Generator and Color Gradient Tool
+        url: https://mycolor.space/
+        icon: fas fa-link
+        description: ""
   - name: 音频
     icon: fas fa-folder
     sites:
@@ -2597,6 +2605,10 @@ categories:
         description: ""
       - name: A Soft Murmur
         url: https://asoftmurmur.com/
+        icon: fas fa-link
+        description: ""
+      - name: Freesound
+        url: https://freesound.org/
         icon: fas fa-link
         description: ""
       - name: 淘声网 - toSound声音搜索引擎 - 免费音效素材资源|视频游戏配乐下载
@@ -5219,10 +5231,6 @@ categories:
         url: https://versus.com/cn
         icon: fas fa-link
         description: ""
-      - name: Human Benchmark
-        url: https://humanbenchmark.com/
-        icon: fas fa-link
-        description: ""
       - name: 时光邮局 - 给未来的自己写一封信
         url: https://www.hi2future.com/
         icon: fas fa-link
@@ -5595,6 +5603,18 @@ categories:
         description: ""
       - name: 非猪ai导航-最好的ai工具集合网站,让你秒变飞猪ai工具箱导航指南,汇聚国内外知名aigc软件服务
         url: https://feizhuke.com/
+        icon: fas fa-link
+        description: ""
+      - name: 阿川工具库 - 全能资源导航
+        url: https://www.aiachuan.com/
+        icon: fas fa-link
+        description: ""
+      - name: 英语学习资源导航 | 全网最全
+        url: https://en.knowledgefxg.com/
+        icon: fas fa-link
+        description: ""
+      - name: NovaTools - AI 新工具推荐与发现平台
+        url: https://www.novatools.cn/
         icon: fas fa-link
         description: ""
   - name: 主流
@@ -6184,5 +6204,173 @@ categories:
         description: ""
       - name: 免费字体下载_免费商用字体_免费字体网_自由字体官网
         url: https://ziyouziti.com/?ref=zhanid.com
+        icon: fas fa-link
+        description: ""
+      - name: AMiner - AI赋能科技情报挖掘-学术搜索-论文检索-论文专利-文献追踪-学者画像
+        url: https://www.aminer.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Vheer | 100% free image generator online. [Unlimited, No Signup]
+        url: https://vheer.com/
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - 合同示范文本库 - 国家市场监督管理总局
+        url: https://htsfwb.samr.gov.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 中国医药信息查询平台-国家权威认证全类型医药信息查询平台
+        url: https://www.dayi.org.cn/
+        icon: fas fa-link
+        description: ""
+      - name: Convertio — 文件转换器
+        url: https://convertio.co/zh/
+        icon: fas fa-link
+        description: ""
+      - name: 魔方简历 - AI 驱动简历编辑器
+        url: https://magicv.art/zh
+        icon: fas fa-link
+        description: ""
+      - name: 图片转Excel - 图片转Excel在线转换 - 万能文字识别在线版
+        url: https://www.wannengshibie.com/img-to-excel/
+        icon: fas fa-link
+        description: ""
+      - name: 图片转excel - 免费的表格识别图片转Excel工具
+        url: https://toexcel.zhiyakeji.com/
+        icon: fas fa-link
+        description: ""
+      - name: 精准云工具_在线工具大全
+        url: https://tool.caoniang.com/
+        icon: fas fa-link
+        description: ""
+      - name: SHOTDECK - 高清电影和商业截图的首选来源
+        url: https://shotdeck.com/
+        icon: fas fa-link
+        description: ""
+      - name: 音乐魔石-无损音乐免费下载网站
+        url: https://www.yym4.com/
+        icon: fas fa-link
+        description: ""
+      - name: 一键抠图_在线抠图_图片去除背景 | RemovePhotos
+        url: https://remove.photos/zh-cn/
+        icon: fas fa-link
+        description: ""
+      - name: AIX智能下载器 - 轻松下载任何网页内容
+        url: https://aixdownloader.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: Moakt Email || 临时邮箱专业服务
+        url: https://www.moakt.com/
+        icon: fas fa-link
+        description: ""
+      - name: 欢迎 • freemediaheckyeah
+        url: https://fmhy.net/?ref=codernav.com
+        icon: fas fa-link
+        description: ""
+      - name: ToolFK 在线工具 - 一体化工具
+        url: https://www.toolfk.com/
+        icon: fas fa-link
+        description: ""
+      - name: Scribe | 快速创建分步指南。
+        url: https://scribehow.com/
+        icon: fas fa-link
+        description: ""
+      - name: 米兔音乐
+        url: https://www.qqmp3.vip/
+        icon: fas fa-link
+        description: ""
+      - name: 在线工具箱 - 简单实用的免费在线工具 - UD在线工具箱
+        url: https://www.udtool.com/
+        icon: fas fa-link
+        description: ""
+      - name: 虚假更新主页
+        url: https://fake-updates.com/
+        icon: fas fa-link
+        description: ""
+      - name: Random Street View - images from all over the world.
+        url: https://randomstreetview.com/
+        icon: fas fa-link
+        description: ""
+      - name: SeedHub | 影视&amp;动漫分享
+        url: https://www.seedhub.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 损坏的文件 - 在线损坏文件，请按时交付！
+        url: https://corrupt-a-file.net/
+        icon: fas fa-link
+        description: ""
+      - name: AlternativeTo - Crowdsourced software recommendations | AlternativeTo
+        url: https://alternativeto.net/
+        icon: fas fa-link
+        description: ""
+      - name: MinerU-免费全能的文档解析神器
+        url: https://mineru.net/OpenSourceTools/Extractor
+        icon: fas fa-link
+        description: ""
+      - name: GeoFS - 免费在线飞行模拟器
+        url: https://www.geo-fs.com/
+        icon: fas fa-link
+        description: ""
+      - name: Ezgif - 免费在线动画 GIF 编辑器
+        url: https://ezgif.com/
+        icon: fas fa-link
+        description: ""
+      - name: MikuTools - 一个轻量的工具集合
+        url: https://okmiku.com/
+        icon: fas fa-link
+        description: ""
+      - name: FakeYou 名人声音生成器 | FakeYou
+        url: https://fakeyou.com/
+        icon: fas fa-link
+        description: ""
+      - name: 你的制作
+        url: https://www.instructables.com/
+        icon: fas fa-link
+        description: ""
+      - name: Magic Eraser - 使用人工智能免费在线删除照片中的物体
+        url: https://magiceraser.pro/zh
+        icon: fas fa-link
+        description: ""
+      - name: 免费视频解析下载_抖音，B站(哔哩哔哩)视频解析下载工具 - Best Video下载器
+        url: https://www.bestvideow.com/
+        icon: fas fa-link
+        description: ""
+      - name: PairDrop | Transfer Files Cross-Platform. No Setup, No Signup.
+        url: https://pairdrop.net/
+        icon: fas fa-link
+        description: ""
+      - name: "City Walks Live: Virtual Tours in the World. Travels, Flights &amp; Hotels"
+        url: https://citywalks.live/
+        icon: fas fa-link
+        description: ""
+      - name: 全景故宫
+        url: https://pano.dpm.org.cn/#/
+        icon: fas fa-link
+        description: ""
+      - name: 主页 | PC Builds
+        url: https://pc-builds.com/zh
+        icon: fas fa-link
+        description: ""
+      - name: 无需上传文件也可在线处理图片
+        url: https://imagestool.com/zh_CN/
+        icon: fas fa-link
+        description: ""
+      - name: Human Benchmark
+        url: https://humanbenchmark.com/
+        icon: fas fa-link
+        description: ""
+      - name: 3DTuning
+        url: https://www.3dtuning.com/en-US/
+        icon: fas fa-link
+        description: ""
+      - name: 启动我的汽车
+        url: https://www.startmycar.com/
+        icon: fas fa-link
+        description: ""
+      - name: 相机模拟
+        url: https://www.camerasim.com/
+        icon: fas fa-link
+        description: ""
+      - name: IconKit | IconKit
+        url: https://iconkit.cn/
         icon: fas fa-link
         description: ""
