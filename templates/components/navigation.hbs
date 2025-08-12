@@ -1,23 +1,40 @@
-<div data-container="nav-items">
-{{#each this}}
-<div class="nav-item-wrapper">
-    <a href="#" class="nav-item{{#if isActive}} active{{/if}}{{#if active}} active{{/if}}" data-page="{{id}}" data-type="nav-item" data-id="{{id}}" data-name="{{name}}" data-icon="{{icon}}">
-        <div class="icon-container">
-            <i class="{{icon}}"></i>
+<div class="sidebar">
+  <!-- 导航栏头部区域 - 添加Logo -->
+  <div class="logo">
+    <img src="{{ site.logo | asset }}" alt="{{ site.title }} Logo" class="logo-img">
+    <h1>{{ site.title }}</h1>
+    <button class="sidebar-toggle" aria-label="切换侧边栏">
+      <i class="toggle-icon fas fa-chevron-left"></i>
+    </button>
+  </div>
+
+  <!-- 原有导航内容保持不变 -->
+  <div class="sidebar-content custom-scrollbar">
+    {{#each navigation}}
+      {{#if this.separator}}
+        <div class="nav-separator"></div>
+      {{else}}
+        <div class="nav-section">
+          {{#if this.title}}
+            <h3 class="section-title">
+              <i class="{{ this.icon }}"></i>
+              <span>{{ this.title }}</span>
+            </h3>
+          {{/if}}
+          <div class="nav-items">
+            {{#each this.items}}
+              {{> nav-item}}
+            {{/each}}
+          </div>
         </div>
-        <span class="nav-text" data-editable="nav-item-name">{{name}}</span>
-        {{#if submenu}}<i class="fas fa-chevron-down submenu-toggle"></i>{{/if}}
-    </a>
-    {{#if submenu}}
-    <div class="submenu">
-        {{#each submenu}}
-        <a href="#{{name}}" class="submenu-item" data-page="{{../id}}" data-category="{{name}}">
-            <i class="{{icon}}"></i>
-            <span>{{name}}</span>
-        </a>
-        {{/each}}
-    </div>
-    {{/if}}
+      {{/if}}
+    {{/each}}
+  </div>
+
+  <!-- 底部版权信息 -->
+  <div class="copyright">
+    <p>© {{ dateFormat "YYYY" }} {{ site.author }}</p>
+    <p><a href="https://github.com/BGdongdong/ziyuan" target="_blank" rel="noopener">Ziyuan</a></p>
+  </div>
 </div>
-{{/each}} 
-</div> 
+    

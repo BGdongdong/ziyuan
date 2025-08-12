@@ -313,7 +313,7 @@ body.loaded .layout {
     display: none; /* 隐藏WebKit浏览器的滚动条 */
 }
 
-/* 侧边栏头部区域 */
+/* 侧边栏头部区域（整合Logo样式） */
 .sidebar .logo {
     grid-area: header;
     padding: 1.2rem 1.2rem 0.6rem; /* 调整上下padding更紧凑 */
@@ -323,6 +323,15 @@ body.loaded .layout {
     overflow: hidden; /* 防止内容溢出 */
     position: relative; /* 添加相对定位，作为按钮的参考 */
     height: 60px; /* 固定高度，确保两种状态下一致 */
+}
+
+/* Logo图片样式 */
+.logo-img {
+    width: 32px; /* Logo宽度，与文字协调 */
+    height: 32px;
+    object-fit: contain; /* 保持图片比例 */
+    margin-right: 0.8rem; /* 与文字保持间距 */
+    transition: all 0.3s ease; /* 折叠动画过渡 */
 }
 
 .logo h1 {
@@ -423,12 +432,18 @@ body.loaded .layout {
     display: none; /* 隐藏WebKit浏览器的滚动条 */
 }
 
-/* 折叠状态下的Logo文本 */
+/* 折叠状态下的Logo文本和图片调整 */
 .sidebar.collapsed .logo h1 {
     opacity: 0;
     transform: translateX(-20px);
     width: 0;
     visibility: hidden; /* 确保完全隐藏，防止干扰布局 */
+}
+
+.sidebar.collapsed .logo-img {
+    margin-right: 0; /* 折叠时取消右侧间距 */
+    width: 28px; /* 略缩小，适应窄侧边栏 */
+    height: 28px;
 }
 
 /* 导航区域样式 */
