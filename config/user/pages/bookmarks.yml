@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-13T00:56:29.228Z
+# 由bookmark-processor.js生成于 2025-08-13T01:02:45.181Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -3063,8 +3063,24 @@ categories:
         url: https://zh.wikipedia.org/wiki/Wikipedia:%E9%A6%96%E9%A1%B5
         icon: fab fa-wikipedia-w
         description: ""
+      - name: 启动我的汽车
+        url: https://www.startmycar.com/
+        icon: fas fa-link
+        description: ""
       - name: CarCareKiosk——免费汽车维修视频
         url: https://www.carcarekiosk.com/
+        icon: fas fa-link
+        description: ""
+      - name: ManualsLib - Makes it easy to find manuals online!
+        url: https://www.manualslib.com/
+        icon: fas fa-link
+        description: ""
+      - name: Parts4Repair | Cellphone Replacement Parts Wholesale and Retail
+        url: https://www.parts4repair.com/
+        icon: fas fa-link
+        description: ""
+      - name: "Fixya：询问并找到日常产品问题的答案 --- Fixya: Ask &amp; Find Answers to Everyday Product Questions"
+        url: https://www.fixya.com/
         icon: fas fa-link
         description: ""
   - name: 官方
@@ -6360,10 +6376,6 @@ categories:
         description: ""
       - name: 3DTuning
         url: https://www.3dtuning.com/en-US/
-        icon: fas fa-link
-        description: ""
-      - name: 启动我的汽车
-        url: https://www.startmycar.com/
         icon: fas fa-link
         description: ""
       - name: 相机模拟
