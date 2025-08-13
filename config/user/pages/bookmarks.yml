@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-13T01:02:45.181Z
+# 由bookmark-processor.js生成于 2025-08-13T09:45:11.550Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -399,49 +399,6 @@ categories:
       - name: GitHub 仪表板
         url: https://github.com/dashboard
         icon: fab fa-github
-        description: ""
-      - name: Find Icons with the Perfect Look &amp; Feel | Font Awesome
-        url: https://fontawesome.com/search?q=youtube&amp;o=r
-        icon: fas fa-link
-        description: ""
-      - name: 计费 - 计划详情 - Cloudinary
-        url: https://console.cloudinary.com/app/c-b98e6ea12422c88fe184a647241feb/settings/upload/presets
-        icon: fas fa-link
-        description: ""
-  - name: 网站
-    icon: fas fa-folder
-    sites:
-      - name: rbetree/menav：一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
-        url: https://github.com/rbetree/menav?tab=readme-ov-file#%E4%B9%A6%E7%AD%BE%E5%AF%BC%E5%85%A5%E5%8A%9F%E8%83%BD
-        icon: fab fa-github
-        description: ""
-      - name: Gitee - 基于 Git 的代码托管和研发协作平台
-        url: https://gitee.com/
-        icon: fas fa-link
-        description: ""
-      - name: OneNav - 网站导航
-        url: https://nav.xuxiny.top/#category-21
-        icon: fas fa-link
-        description: ""
-      - name: 免费图标SVG，PNG，ICO或ICNS
-        url: https://icon-icons.com/zh/
-        icon: fas fa-link
-        description: ""
-      - name: W3Schools 在线 Web 教程 --- W3Schools Online Web Tutorials
-        url: https://www.w3schools.com/
-        icon: fas fa-link
-        description: ""
-      - name: Bootstrap v5 中文文档 · Bootstrap 是全球最受欢迎的 HTML、CSS 和 JS 前端工具库。 | Bootstrap 中文网
-        url: https://v5.bootcss.com/
-        icon: fas fa-link
-        description: ""
-      - name: Feather – Simply beautiful open source icons
-        url: https://feathericons.com/
-        icon: fas fa-link
-        description: ""
-      - name: 图标库v5 - FontAwesome 字体图标中文Icon
-        url: https://fontawesome.com.cn/v5
-        icon: fas fa-link
         description: ""
   - name: 在线
     icon: fas fa-folder
@@ -3083,6 +3040,10 @@ categories:
         url: https://www.fixya.com/
         icon: fas fa-link
         description: ""
+      - name: 8848汽车学苑 - 中文专业汽车资料文库网站
+        url: https://www.8848qc.com/
+        icon: fas fa-link
+        description: ""
   - name: 官方
     icon: fas fa-folder
     sites:
@@ -5318,6 +5279,21 @@ categories:
         url: https://www.fiverr.com/?source=top_nav
         icon: fas fa-link
         description: ""
+  - name: 导航
+    icon: fas fa-folder
+    sites:
+      - name: 小众技术工具库 | 专注分享实用软件和精品网站
+        url: https://www.xiaozhongjishu.com/
+        icon: fas fa-link
+        description: ""
+      - name: 开发者导航 - 陌上花开，可缓缓归矣。
+        url: https://codernav.com/
+        icon: fas fa-link
+        description: ""
+      - name: AnywhereAnything - 提高你的搜索效率！
+        url: https://demo.jb51.net/js/2016/html5_AnywhereAnything/
+        icon: fas fa-link
+        description: ""
   - name: 大数据
     icon: fas fa-folder
     sites:
@@ -5329,24 +5305,16 @@ categories:
         url: https://data.worldbank.org.cn/
         icon: fas fa-link
         description: ""
+      - name: OneNav - 网站导航
+        url: https://nav.xuxiny.top/#category-21
+        icon: fas fa-link
+        description: ""
       - name: 虫部落 - 让搜索更简单
         url: https://www.chongbuluo.com/
         icon: fas fa-link
         description: ""
-      - name: 开发者导航 - 陌上花开，可缓缓归矣。
-        url: https://codernav.com/
-        icon: fas fa-link
-        description: ""
-      - name: AnywhereAnything - 提高你的搜索效率！
-        url: https://demo.jb51.net/js/2016/html5_AnywhereAnything/
-        icon: fas fa-link
-        description: ""
       - name: 数字素养网|数字素养与技能提升学习社区！www.szsyw.cn
         url: https://szsyw.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 小众技术工具库 | 专注分享实用软件和精品网站
-        url: https://www.xiaozhongjishu.com/
         icon: fas fa-link
         description: ""
       - name: 黑猫-黑猫虚拟_会员
@@ -5633,6 +5601,22 @@ categories:
         url: https://www.novatools.cn/
         icon: fas fa-link
         description: ""
+      - name: WebStack-Hugo 网址导航
+        url: https://webstack-hugo.weiyan.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 猫猫导航
+        url: https://nav.maodeyu.fun/
+        icon: fas fa-link
+        description: ""
+      - name: ws01导航 - 精选实用导航网站
+        url: https://dh.mbb.qzz.io/#/?id=202&amp;_=1755053601466
+        icon: fas fa-link
+        description: ""
+      - name: 发现导航 - 精选实用导航网站
+        url: https://jiaban007.icu/#/?id=221&amp;_=1755053629523
+        icon: fas fa-link
+        description: ""
   - name: 主流
     icon: fas fa-folder
     sites:
@@ -5881,12 +5865,12 @@ categories:
         url: https://www.cnblogs.com/
         icon: fas fa-link
         description: ""
-      - name: 悠慕辰随笔
-        url: https://youmuchen.icu/
-        icon: fas fa-link
-        description: ""
       - name: 毒奶 - 欢迎使用代理访问本站。
         url: https://limbopro.com/
+        icon: fas fa-link
+        description: ""
+      - name: 悠慕辰随笔
+        url: https://youmuchen.icu/
         icon: fas fa-link
         description: ""
       - name: kn007的个人博客
@@ -6186,10 +6170,6 @@ categories:
         url: https://svglogo.top/landing
         icon: fas fa-link
         description: ""
-      - name: Lucide
-        url: https://lucide.dev/icons/
-        icon: fas fa-link
-        description: ""
       - name: classNames库
         url: https://ljylwnxx.github.io/2023/12/18/classNames%E5%BA%93/
         icon: fab fa-github
@@ -6380,6 +6360,76 @@ categories:
         description: ""
       - name: 相机模拟
         url: https://www.camerasim.com/
+        icon: fas fa-link
+        description: ""
+      - name: 创造家 - 看见你的创造力
+        url: https://www.chuangzaojia.com/
+        icon: fas fa-link
+        description: ""
+      - name: 3DSOURCE零件库官网 | 海量零部件CAD模型免费下载,助力产品设计
+        url: https://www.3dsource.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 3DSOURCE零件库 - 海量CAD模型免费下载，助力产品设计，标准件库、机械零件库、自动化零部件、工业机器人、液压元件、气动元件、减速机/电机、联轴器、传动件、轴承、型材
+        url: https://lib.3dsource.cn/#/chooseClass
+        icon: fas fa-link
+        description: ""
+      - name: 支柱支架、发动机支架、齿轮支架、减震器、扭力杆 – 开平市苏宏汽车配件有限公司有限公司
+        url: https://www.suhonauto.com/cn/
+        icon: fas fa-link
+        description: ""
+      - name: 计费 - 计划详情 - Cloudinary
+        url: https://console.cloudinary.com/app/c-b98e6ea12422c88fe184a647241feb/settings/upload/presets
+        icon: fas fa-link
+        description: ""
+      - name: 轻略应用（轻略加） - 在线应用工具大全
+        url: https://app.qinglue.com/
+        icon: fas fa-link
+        description: ""
+      - name: "Favicon.im: 即时网站图标获取器"
+        url: https://favicon.im/zh
+        icon: fas fa-link
+        description: ""
+  - name: 网站图标
+    icon: fas fa-folder
+    sites:
+      - name: Lucide
+        url: https://lucide.dev/icons/
+        icon: fas fa-link
+        description: ""
+      - name: Find Icons with the Perfect Look &amp; Feel | Font Awesome
+        url: https://fontawesome.com/search?q=youtube&amp;o=r
+        icon: fas fa-link
+        description: ""
+  - name: 网站
+    icon: fas fa-folder
+    sites:
+      - name: rbetree/menav：一键部署的个人导航站生成器，支持书签导入与自动构建，轻松整理展示您的网络收藏
+        url: https://github.com/rbetree/menav?tab=readme-ov-file#%E4%B9%A6%E7%AD%BE%E5%AF%BC%E5%85%A5%E5%8A%9F%E8%83%BD
+        icon: fab fa-github
+        description: ""
+      - name: Gitee - 基于 Git 的代码托管和研发协作平台
+        url: https://gitee.com/
+        icon: fas fa-link
+        description: ""
+      - name: 免费图标SVG，PNG，ICO或ICNS
+        url: https://icon-icons.com/zh/
+        icon: fas fa-link
+        description: ""
+      - name: W3Schools 在线 Web 教程 --- W3Schools Online Web Tutorials
+        url: https://www.w3schools.com/
+        icon: fas fa-link
+        description: ""
+      - name: Bootstrap v5 中文文档 · Bootstrap 是全球最受欢迎的 HTML、CSS 和 JS 前端工具库。 | Bootstrap 中文网
+        url: https://v5.bootcss.com/
+        icon: fas fa-link
+        description: ""
+      - name: Feather – Simply beautiful open source icons
+        url: https://feathericons.com/
+        icon: fas fa-link
+        description: ""
+      - name: 图标库v5 - FontAwesome 字体图标中文Icon
+        url: https://fontawesome.com.cn/v5
         icon: fas fa-link
         description: ""
       - name: IconKit | IconKit
