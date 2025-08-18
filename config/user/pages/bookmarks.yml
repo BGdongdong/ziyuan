@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-15T03:23:29.725Z
+# 由bookmark-processor.js生成于 2025-08-18T01:25:34.861Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -411,6 +411,10 @@ categories:
         url: https://www.xinpianchang.com/
         icon: fas fa-link
         description: ""
+      - name: 247看 - 免费在线高清影视平台 | 电影 | 电视剧 | 动漫 | 综艺
+        url: https://247kan.com/
+        icon: fas fa-link
+        description: ""
       - name: TV121影院 - 高清影视大全在线观看的私人电影院
         url: https://www.815k.com/
         icon: fas fa-link
@@ -439,14 +443,6 @@ categories:
         url: https://www.dushe1.app/
         icon: fas fa-link
         description: ""
-      - name: 金牌影院
-        url: https://5lr.cc/
-        icon: fas fa-link
-        description: ""
-      - name: 瓜子影视-200%免费看剧赢奖励[官网]
-        url: https://btbtt12.com/
-        icon: fas fa-link
-        description: ""
       - name: 金牌影院_免费在线播放_高清全集_电影网站_在线视频
         url: https://www.chrqj.com/
         icon: fas fa-link
@@ -461,10 +457,6 @@ categories:
         description: ""
       - name: 555电影_最新Netflix新剧_韩国电影免费在线观看
         url: https://www.wuwu6ck.shop/index/home.html
-        icon: fas fa-link
-        description: ""
-      - name: 555电影APP下载-555电影官网永久发布页
-        url: https://w55xy.com/
         icon: fas fa-link
         description: ""
       - name: あなたにおすすめの動画 - ニコニコ動画
@@ -494,24 +486,32 @@ categories:
         url: https://www.yinfans.me/
         icon: fas fa-link
         description: ""
-      - name: FIX-The Subtitle Man | FIX-The Subtitle Man
-        url: https://www.zimuxia.cn/
+      - name: 电影街
+        url: https://dyjie.net/
+        icon: fas fa-link
+        description: ""
+      - name: 登录 - 影巢
+        url: https://hdhive.online/login?redirect=/search
         icon: fas fa-link
         description: ""
       - name: BT之家1LOU站-回归初心，追求极简
         url: https://www.1lou.pro/
         icon: fas fa-link
         description: ""
-      - name: 4K电影美剧下载 - HDR杜比视界资源 - 4KHDR世界 - 4KHDR.CN
-        url: https://4khdr.cn/
-        icon: fas fa-link
-        description: ""
       - name: 电影天堂_电影下载_高清首发
         url: https://www.dytt8899.com/
         icon: fas fa-link
         description: ""
-      - name: 登录 - 影巢
-        url: https://hdhive.online/login?redirect=/search
+      - name: 4K专区-网盘资源社-免费优质云盘网盘资源分享社区论坛！
+        url: https://www.wpzysq.com/forum-12.htm
+        icon: fas fa-link
+        description: ""
+      - name: 4K电影美剧下载 - HDR杜比视界资源 - 4KHDR世界 - 4KHDR.CN
+        url: https://4khdr.cn/
+        icon: fas fa-link
+        description: ""
+      - name: FIX-The Subtitle Man | FIX-The Subtitle Man
+        url: https://www.zimuxia.cn/
         icon: fas fa-link
         description: ""
       - name: 小众纪录片影视聚合-最新纪录片电影电视剧美剧资源下载
@@ -522,16 +522,8 @@ categories:
         url: https://www.meijutt.tv/
         icon: fas fa-link
         description: ""
-      - name: 4K专区-网盘资源社-免费优质云盘网盘资源分享社区论坛！
-        url: https://www.wpzysq.com/forum-12.htm
-        icon: fas fa-link
-        description: ""
       - name: 盘盘资源-开放交流，共享资源，走进盘盘！ - Powered by Discuz!
         url: https://www.panpanr.top/
-        icon: fas fa-link
-        description: ""
-      - name: BT天堂 - 2025最新高清电影1080P|2160P|4K资源免费下载
-        url: https://www.bttt11.com/
         icon: fas fa-link
         description: ""
   - name: 综合
@@ -826,6 +818,10 @@ categories:
   - name: 在线音乐
     icon: fas fa-folder
     sites:
+      - name: 布谷音乐网-在线音乐-无损音乐免费下载
+        url: https://www.buguyy.top/
+        icon: fas fa-link
+        description: ""
       - name: 熊猫DJ音乐网-DJCSCS|城市串烧|2357cc|车载舞曲
         url: https://www.djcscs.com/index.php?uid=102271
         icon: fas fa-link
@@ -852,6 +848,14 @@ categories:
         description: ""
       - name: 猫耳FM_来自二次元的声音_( :3」∠)_M站
         url: https://www.missevan.com/
+        icon: fas fa-link
+        description: ""
+      - name: 米兔音乐
+        url: https://www.qqmp3.vip/
+        icon: fas fa-link
+        description: ""
+      - name: 无损生活 - 全网无损音乐免费下载，音乐搜索,音乐在线试听,下载,在线解析网
+        url: https://flac.life/
         icon: fas fa-link
         description: ""
   - name: 冥想音乐
@@ -943,6 +947,13 @@ categories:
         description: ""
       - name: Screenmusings 电影截图和色彩数据库
         url: https://screenmusings.org/
+        icon: fas fa-link
+        description: ""
+  - name: 教育
+    icon: fas fa-folder
+    sites:
+      - name: 阳光高考_教育部高校招生阳光工程指定平台
+        url: https://gaokao.chsi.com.cn/
         icon: fas fa-link
         description: ""
   - name: 中国文化
@@ -1881,6 +1892,10 @@ categories:
         url: https://worldvectorlogo.com/zh
         icon: fas fa-link
         description: ""
+      - name: 世界著名的壁纸网站 电脑桌面壁纸 - WallHere 壁纸库
+        url: https://wallhere.com/
+        icon: fas fa-link
+        description: ""
       - name: ArtStation - 探索
         url: https://www.artstation.com/?sort_by=community&amp;dimension=all
         icon: fas fa-link
@@ -1959,6 +1974,10 @@ categories:
         description: ""
       - name: PNG images | 100 000+ Free PNG images
         url: https://pngimg.com/
+        icon: fas fa-link
+        description: ""
+      - name: 在线电脑壁纸
+        url: https://tool.liumingye.cn/wallpaper/
         icon: fas fa-link
         description: ""
   - name: 插画素材
@@ -2586,8 +2605,20 @@ categories:
   - name: 网站
     icon: fas fa-folder
     sites:
+      - name: 果核剥壳 - 互联网的净土
+        url: https://www.ghxi.com/
+        icon: fas fa-link
+        description: ""
+      - name: 软仓 | RuanCang.Net
+        url: https://www.ruancang.net/
+        icon: fas fa-link
+        description: ""
       - name: 多多软件站-提供绿色软件和热门单机游戏下载
         url: https://www.ddooo.com/
+        icon: fas fa-link
+        description: ""
+      - name: 吾爱破解 - 52pojie.cn
+        url: https://www.52pojie.cn/
         icon: fas fa-link
         description: ""
       - name: 致美化 - 视觉美化研究平台
@@ -2602,20 +2633,12 @@ categories:
         url: https://lizhi.shop/
         icon: fas fa-link
         description: ""
-      - name: 果核剥壳 - 互联网的净土
-        url: https://www.ghxi.com/
-        icon: fas fa-link
-        description: ""
       - name: mefcl - 分享纯净好资源
         url: https://www.mefcl.com/
         icon: fas fa-link
         description: ""
       - name: 奇迹秀工具箱 - 设计师的百宝箱
         url: https://www.qijishow.com/down/index.html
-        icon: fas fa-link
-        description: ""
-      - name: 软仓 | RuanCang.Net
-        url: https://www.ruancang.net/
         icon: fas fa-link
         description: ""
       - name: 软库网 - 收藏实用、免费资源的软件仓库丨RuanKu.Net
@@ -2698,10 +2721,6 @@ categories:
         url: https://6yso.com/
         icon: fas fa-link
         description: ""
-      - name: 吾爱破解 - 52pojie.cn
-        url: https://www.52pojie.cn/
-        icon: fas fa-link
-        description: ""
       - name: 大眼仔旭 - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享
         url: https://www.dayanzai.me/
         icon: fas fa-link
@@ -2755,10 +2774,6 @@ categories:
         description: ""
       - name: Quicker软件 您的指尖工具箱 - Quicker
         url: https://getquicker.net/
-        icon: fas fa-link
-        description: ""
-      - name: DuckDuckGo - Protection. Privacy. Peace of mind.
-        url: https://duckduckgo.com/
         icon: fas fa-link
         description: ""
       - name: D5渲染器官网 | 实时光追渲染技术，重塑3D创作工作流
@@ -5365,10 +5380,6 @@ categories:
         url: https://www.bqrdh.com/
         icon: fas fa-link
         description: ""
-      - name: 刘明野的工具箱 | 刘明野的工具箱提供好用、易用的工具，还在不断添加中，欢迎访问！
-        url: https://tools.liumingye.cn/
-        icon: fas fa-link
-        description: ""
       - name: 学吧导航 | 四十万学习爱好者都在用的学霸导航网站
         url: https://www.xue8nav.com/
         icon: fas fa-link
@@ -5611,6 +5622,10 @@ categories:
         description: ""
       - name: 发现导航 - 精选实用导航网站
         url: https://jiaban007.icu/#/?id=221&amp;_=1755053629523
+        icon: fas fa-link
+        description: ""
+      - name: 分享39个不错的影视下载网站，找全网优质的影视下载网站，看着一篇-一流导航
+        url: https://16map.com/favorites/yingshixiazai_view
         icon: fas fa-link
         description: ""
   - name: 主流
@@ -6266,10 +6281,6 @@ categories:
         url: https://scribehow.com/
         icon: fas fa-link
         description: ""
-      - name: 米兔音乐
-        url: https://www.qqmp3.vip/
-        icon: fas fa-link
-        description: ""
       - name: 在线工具箱 - 简单实用的免费在线工具 - UD在线工具箱
         url: https://www.udtool.com/
         icon: fas fa-link
@@ -6386,6 +6397,26 @@ categories:
         url: https://favicon.im/zh
         icon: fas fa-link
         description: ""
+      - name: 开放广播软件 | OBS
+        url: https://obsproject.com/
+        icon: fas fa-link
+        description: ""
+      - name: GitMCP
+        url: https://gitmcp.io/
+        icon: fas fa-link
+        description: ""
+      - name: Qwerty Learner — 为键盘工作者设计的单词与肌肉记忆锻炼软件
+        url: https://qwerty.liumingye.cn/
+        icon: fas fa-link
+        description: ""
+      - name: PasteMe - 一个不算糟糕的可私有文本分享平台
+        url: https://paste.liumingye.cn/
+        icon: fas fa-link
+        description: ""
+      - name: M3U8在线播放器 - 刘明野的工具箱
+        url: https://tool.liumingye.cn/m3u8/
+        icon: fas fa-link
+        description: ""
   - name: 网站图标
     icon: fas fa-folder
     sites:
@@ -6430,5 +6461,13 @@ categories:
         description: ""
       - name: IconKit | IconKit
         url: https://iconkit.cn/
+        icon: fas fa-link
+        description: ""
+      - name: M3U管理系统 - 生成订阅链接
+        url: https://m3u.mmdns.top/subscription
+        icon: fas fa-link
+        description: ""
+      - name: 首页 - oddob智能设计
+        url: https://oddob.com/#/index
         icon: fas fa-link
         description: ""
