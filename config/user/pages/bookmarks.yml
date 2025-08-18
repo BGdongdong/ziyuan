@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-18T01:25:34.861Z
+# 由bookmark-processor.js生成于 2025-08-18T06:43:28.785Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -1978,6 +1978,10 @@ categories:
         description: ""
       - name: 在线电脑壁纸
         url: https://tool.liumingye.cn/wallpaper/
+        icon: fas fa-link
+        description: ""
+      - name: The Thiings Collection
+        url: https://www.thiings.co/things
         icon: fas fa-link
         description: ""
   - name: 插画素材
@@ -6417,6 +6421,10 @@ categories:
         url: https://tool.liumingye.cn/m3u8/
         icon: fas fa-link
         description: ""
+      - name: 一饭封神 - AI智能菜谱生成平台
+        url: https://eat.lz-t.top/
+        icon: fas fa-link
+        description: ""
   - name: 网站图标
     icon: fas fa-folder
     sites:
@@ -6469,5 +6477,9 @@ categories:
         description: ""
       - name: 首页 - oddob智能设计
         url: https://oddob.com/#/index
+        icon: fas fa-link
+        description: ""
+      - name: Animagraffs - Animated infographics about everything.
+        url: https://animagraffs.com/
         icon: fas fa-link
         description: ""
