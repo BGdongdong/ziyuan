@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-19T02:21:37.772Z
+# 由bookmark-processor.js生成于 2025-08-19T07:07:03.609Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -395,10 +395,6 @@ categories:
       - name: Vercel
         url: https://vercel.com/ufengxiangs-projects
         icon: fas fa-link
-        description: ""
-      - name: GitHub 仪表板
-        url: https://github.com/dashboard
-        icon: fab fa-github
         description: ""
   - name: 在线
     icon: fas fa-folder
@@ -2542,10 +2538,6 @@ categories:
         description: ""
       - name: Html颜色代码表
         url: https://online-tool.cn/tool/color
-        icon: fas fa-link
-        description: ""
-      - name: 十六进制颜色代码表，图表及调色板 - Encycolorpedia
-        url: https://encycolorpedia.cn/
         icon: fas fa-link
         description: ""
       - name: 颜色生成器 – Kigen
@@ -5318,6 +5310,10 @@ categories:
         description: ""
       - name: World Bank Open Data | Data
         url: https://data.worldbank.org.cn/
+        icon: fas fa-link
+        description: ""
+      - name: SimilarLabs - 发现和对比最佳AI产品和工具
+        url: https://similarlabs.com/zh
         icon: fas fa-link
         description: ""
       - name: OneNav - 网站导航
