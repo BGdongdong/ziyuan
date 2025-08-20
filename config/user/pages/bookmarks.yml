@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-08-19T07:07:03.609Z
+# 由bookmark-processor.js生成于 2025-08-20T01:07:47.637Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -390,6 +390,10 @@ categories:
         description: ""
       - name: 阿里云-计算，为了无法计算的价值
         url: https://www.aliyun.com/?spm=5176.30371578.J_4VYgf18xNlTAyFFbOuOQe.d_logo.2ddb154ac2Dwww
+        icon: fas fa-link
+        description: ""
+      - name: 霓虹灯控制台 --- Neon Console
+        url: https://console.neon.tech/app/projects/morning-base-73398457?database=neondb
         icon: fas fa-link
         description: ""
       - name: Vercel
@@ -6477,5 +6481,21 @@ categories:
         description: ""
       - name: Animagraffs - Animated infographics about everything.
         url: https://animagraffs.com/
+        icon: fas fa-link
+        description: ""
+      - name: 用于测试和开发的随机信用卡号生成器 - Namsogen
+        url: https://namso-gen.com/?tab=basic&amp;network=UnionPay
+        icon: fas fa-link
+        description: ""
+      - name: CC Checker | 精确且安全的在线信用卡验证器
+        url: https://ccchecker.io/zh-CN
+        icon: fas fa-link
+        description: ""
+      - name: Best Free Credit Card Checker Validator Ever | chkr.cc
+        url: https://chkr.cc/
+        icon: fas fa-link
+        description: ""
+      - name: 【教程】免信用卡为cloudflare添加付款方式 | zk的思想创意收集馆
+        url: https://www.zkcoi.com/idea/skills/3452.html
         icon: fas fa-link
         description: ""
