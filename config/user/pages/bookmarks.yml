@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-05T00:47:02.107Z
+# 由bookmark-processor.js生成于 2025-09-08T00:58:26.355Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -2864,16 +2864,16 @@ categories:
   - name: 图文编辑
     icon: fas fa-folder
     sites:
+      - name: Small.im - 免费批量图片压缩工具
+        url: https://small.im/zh-hans
+        icon: fas fa-link
+        description: ""
       - name: Duotone by ShapeFactory | Create Beautiful Free Duotones
         url: https://duotone.shapefactory.co/?f=ff0028&amp;t=7a004f
         icon: fas fa-link
         description: ""
       - name: 证件照大师 - 让证件照处理更简单
         url: https://id-photo.cn/
-        icon: fas fa-link
-        description: ""
-      - name: waifu2x
-        url: https://www.waifu2x.net/index.zh-CN.html
         icon: fas fa-link
         description: ""
       - name: iLoveIMG | 图像文件在线编辑工具
@@ -2886,6 +2886,14 @@ categories:
         description: ""
       - name: 改图宝 - 在线修改照片大小尺寸工具
         url: https://www.gaitubao.com/
+        icon: fas fa-link
+        description: ""
+      - name: 图片压缩
+        url: https://squoosh.app/
+        icon: fas fa-link
+        description: ""
+      - name: waifu2x
+        url: https://www.waifu2x.net/index.zh-CN.html
         icon: fas fa-link
         description: ""
       - name: Remove Unwanted Objects &amp; Fix Imperfections with Inpaint Online!
@@ -2908,14 +2916,6 @@ categories:
         url: https://jpghd.com/
         icon: fas fa-link
         description: ""
-      - name: Petalica paint -线稿自动上色服务-
-        url: https://petalica.com/index_zh.html
-        icon: fas fa-link
-        description: ""
-      - name: 消除或者替换图像背景，无需上传图像 - BgSub
-        url: https://bgsub.cn/
-        icon: fas fa-link
-        description: ""
       - name: 美图云修-专业级AI人像精修
         url: https://yunxiu.meitu.com/home
         icon: fas fa-link
@@ -2936,10 +2936,6 @@ categories:
         url: https://bigjpg.com/
         icon: fas fa-link
         description: ""
-      - name: 图片压缩
-        url: https://squoosh.app/
-        icon: fas fa-link
-        description: ""
       - name: 即时设计 - 可实时协作的专业 UI 设计工具
         url: https://js.design/
         icon: fas fa-link
@@ -2955,32 +2951,9 @@ categories:
   - name: 视频相关
     icon: fas fa-folder
     sites:
-      - name: 人声消除器和乐器 AI 分离器 | LALAL.AI
-        url: https://www.lalal.ai/
-        icon: fas fa-link
-        description: ""
-      - name: Apowersoft - 为您提供专业的商务办公及日常生活的桌面软件和在线应用
-        url: https://www.apowersoft.cn/
-        icon: fas fa-link
-        description: ""
       - name: 合并 mp4 视频和音频
         url: https://maple3142.github.io/mergemp4/
         icon: fab fa-github
-        description: ""
-  - name: 下载工具
-    icon: fas fa-folder
-    sites:
-      - name: cobalt
-        url: https://cobalt.tools/
-        icon: fas fa-link
-        description: ""
-      - name: 抖音快手小红书短视频图片免费去水印解析下载工具网站
-        url: http://www.dspjx.com/
-        icon: fas fa-link
-        description: ""
-      - name: 免费在线视频下载器 - SaveFrom.net - 精准、快速、免费下载视频
-        url: https://zh.savefrom.net/228pY/
-        icon: fas fa-link
         description: ""
   - name: 网页工具
     icon: fas fa-folder
@@ -2997,24 +2970,12 @@ categories:
         url: https://www.toolnb.com/
         icon: fas fa-link
         description: ""
-      - name: 在线转换器 - 转换文件成为视频, 音乐, 图像, PDF - Office-Converter.com
-        url: https://cn.office-converter.com/
-        icon: fas fa-link
-        description: ""
       - name: 那风工具箱
         url: https://tools.thatwind.com/
         icon: fas fa-link
         description: ""
       - name: A.Tools - A Convenient and Easy-To-Use Collection of Free Online Tools.
         url: https://www.a.tools/?ref=atoolbox
-        icon: fas fa-link
-        description: ""
-      - name: WebRename - 在线文件批量重命名工具
-        url: https://webrename.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 极简简历_PoleBrief简历_极简PoleBrief_简历模板_个人简历模板_在线简历引领者，带给你不一样的体验
-        url: https://www.polebrief.com/
         icon: fas fa-link
         description: ""
       - name: PearOCR，在线图片转文字，免费OCR，在线图片文字提取，本地运算，无上传
@@ -3033,10 +2994,6 @@ categories:
         url: https://tool.mkblog.cn/
         icon: fas fa-link
         description: ""
-      - name: e.ggtimer - Simple Countdown Timer
-        url: https://e.ggtimer.com/
-        icon: fas fa-link
-        description: ""
       - name: 在线工具 —— OSCHINA.NET社区
         url: https://tool.oschina.net/
         icon: fas fa-link
@@ -3049,12 +3006,16 @@ categories:
         url: https://tinywow.com/
         icon: fas fa-link
         description: ""
-      - name: (第35期)超实用的网站推荐：LOGO设计网 - 小红书
-        url: https://www.xiaohongshu.com/explore/68940a65000000000400528e?xsec_token=ABGnvga6fA6WHsEHFUMuVkdL_4kbOytfv1HTbrnBXZFV8=&amp;xsec_source=pc_like&amp;m_source=itab
-        icon: fas fa-link
-        description: ""
       - name: 摄影豌豆|在线照片编辑器
         url: https://www.photopea.com/
+        icon: fas fa-link
+        description: ""
+      - name: WebRename - 在线文件批量重命名工具
+        url: https://webrename.cn/
+        icon: fas fa-link
+        description: ""
+      - name: e.ggtimer - Simple Countdown Timer
+        url: https://e.ggtimer.com/
         icon: fas fa-link
         description: ""
   - name: 表情包制作
@@ -6485,10 +6446,6 @@ categories:
         description: ""
       - name: IconKit | IconKit
         url: https://iconkit.cn/
-        icon: fas fa-link
-        description: ""
-      - name: Small.im - 免费批量图片压缩工具
-        url: https://small.im/zh-hans
         icon: fas fa-link
         description: ""
       - name: 《请客吃饭的逻辑》 - 梁文道 —— 一篇文字
