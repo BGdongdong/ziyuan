@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-08T00:58:26.355Z
+# 由bookmark-processor.js生成于 2025-09-08T07:04:47.062Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -3096,6 +3096,33 @@ categories:
         url: https://www.gaoding.com/
         icon: fas fa-link
         description: ""
+  - name: 综合工具
+    icon: fas fa-folder
+    sites:
+      - name: 世界时钟 - 现在世界各地是什么时间?
+        url: https://24timezones.com/map_zh.php#/map
+        icon: fas fa-link
+        description: ""
+      - name: 时间校准_北京时间校准_北京时间在线校准_现在北京时间
+        url: https://time.tianqi.com/
+        icon: fas fa-link
+        description: ""
+      - name: 尖叫直线 屏幕测试 | 永久免费、无广告的专业、易用屏幕测试工具
+        url: https://test.screamingline.com/
+        icon: fas fa-link
+        description: ""
+      - name: 在线屏幕测试
+        url: https://lab.luozhinet.com/tool/screentest/
+        icon: fas fa-link
+        description: ""
+      - name: 360查字体-查版权，免纠纷
+        url: https://fonts.safe.360.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 艾瑞兰德
+        url: https://buymeacoffee.com/iamairyland
+        icon: fas fa-link
+        description: ""
   - name: 网站
     icon: fas fa-folder
     sites:
@@ -4315,33 +4342,6 @@ categories:
         description: ""
       - name: ZAKER新闻
         url: https://www.myzaker.com/
-        icon: fas fa-link
-        description: ""
-  - name: 综合工具
-    icon: fas fa-folder
-    sites:
-      - name: 世界时钟 - 现在世界各地是什么时间?
-        url: https://24timezones.com/map_zh.php#/map
-        icon: fas fa-link
-        description: ""
-      - name: 时间校准_北京时间校准_北京时间在线校准_现在北京时间
-        url: https://time.tianqi.com/
-        icon: fas fa-link
-        description: ""
-      - name: 尖叫直线 屏幕测试 | 永久免费、无广告的专业、易用屏幕测试工具
-        url: https://test.screamingline.com/
-        icon: fas fa-link
-        description: ""
-      - name: 在线屏幕测试
-        url: https://lab.luozhinet.com/tool/screentest/
-        icon: fas fa-link
-        description: ""
-      - name: 360查字体-查版权，免纠纷
-        url: https://fonts.safe.360.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 艾瑞兰德
-        url: https://buymeacoffee.com/iamairyland
         icon: fas fa-link
         description: ""
   - name: 造假
