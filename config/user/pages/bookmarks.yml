@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-09T01:21:26.535Z
+# 由bookmark-processor.js生成于 2025-09-09T08:29:39.264Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -3198,32 +3198,12 @@ categories:
         url: https://www.ypojie.com/
         icon: fas fa-link
         description: ""
-      - name: Mac毒 - Mac软件下载网站（奶酪网）
-        url: https://www.macdo.cn/
-        icon: fas fa-link
-        description: ""
-      - name: 马可菠萝 - 分享你喜欢的MAC应用
-        url: https://www.macbl.com/
-        icon: fas fa-link
-        description: ""
       - name: 绿软下载站-IT猫扑网-绿色安全的软件下载联盟
         url: https://www.itmop.com/
         icon: fas fa-link
         description: ""
-      - name: Mac青桔网 - Mac软件下载站(MacQJ)
-        url: https://www.macqj.com/
-        icon: fas fa-link
-        description: ""
-      - name: get8.top/vp.html
-        url: http://get8.top/vp.html
-        icon: fas fa-link
-        description: ""
       - name: 在 iOS 和 Android 上免费调整应用程序
         url: https://appace.co/
-        icon: fas fa-link
-        description: ""
-      - name: 马克喵_获取最新MAC破解软件
-        url: https://www.macat.vip/
         icon: fas fa-link
         description: ""
       - name: 鹏少资源网 | 专注于精品软件收录分享
@@ -3236,10 +3216,6 @@ categories:
         description: ""
       - name: 大眼仔旭 - 专注开源软件、视频剪辑、免费商用字体、屏幕录像工具、思维导图等办公资源分享
         url: https://www.dayanzai.me/
-        icon: fas fa-link
-        description: ""
-      - name: 腾讯软件中心-海量软件高速免费下载
-        url: https://pc.qq.com/
         icon: fas fa-link
         description: ""
       - name: 爱资源-专注软件资源分享
@@ -3258,6 +3234,33 @@ categories:
         url: https://www.smianao.com/
         icon: fas fa-link
         description: ""
+      - name: 异星软件空间 | 感受不一样的精彩体验！您的异星应用库！
+        url: https://www.yxssp.com/
+        icon: fas fa-link
+        description: ""
+      - name: 软件SOS_玩机手册，软件安装管家_软件激活工具下载
+        url: https://www.rjsos.com/
+        icon: fas fa-link
+        description: ""
+  - name: MAC软件
+    icon: fas fa-folder
+    sites:
+      - name: Mac毒 - Mac软件下载网站（奶酪网）
+        url: https://www.macdo.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 马可菠萝 - 分享你喜欢的MAC应用
+        url: https://www.macbl.com/
+        icon: fas fa-link
+        description: ""
+      - name: Mac青桔网 - Mac软件下载站(MacQJ)
+        url: https://www.macqj.com/
+        icon: fas fa-link
+        description: ""
+      - name: 马克喵_获取最新MAC破解软件
+        url: https://www.macat.vip/
+        icon: fas fa-link
+        description: ""
       - name: appstorrent - игры и программы для macOS
         url: https://appstorrent.ru/
         icon: fas fa-link
@@ -3266,12 +3269,12 @@ categories:
         url: https://www.macapp.so/
         icon: fas fa-link
         description: ""
-      - name: 异星软件空间 | 感受不一样的精彩体验！您的异星应用库！
-        url: https://www.yxssp.com/
+      - name: 腾讯软件中心-海量软件高速免费下载
+        url: https://pc.qq.com/
         icon: fas fa-link
         description: ""
-      - name: 软件SOS_玩机手册，软件安装管家_软件激活工具下载
-        url: https://www.rjsos.com/
+      - name: get8.top/vp.html
+        url: http://get8.top/vp.html
         icon: fas fa-link
         description: ""
   - name: 软件
@@ -4577,10 +4580,6 @@ categories:
         url: https://www.lanrenexcel.com/
         icon: fas fa-link
         description: ""
-      - name: oeasy,会玩才会学
-        url: http://oeasy.org/
-        icon: fas fa-link
-        description: ""
       - name: doyoudo
         url: https://www.doyoudo.com/
         icon: fas fa-link
@@ -4591,10 +4590,6 @@ categories:
         description: ""
       - name: 学霸盘 - 百度网盘学习资料搜索下载神器
         url: https://www.xuebapan.com/
-        icon: fas fa-link
-        description: ""
-      - name: WPS Office办公软件下载_办公软件之家
-        url: http://www.wps-office.net/
         icon: fas fa-link
         description: ""
       - name: Apache ECharts
@@ -4613,16 +4608,12 @@ categories:
         url: http://www.wordlm.com/
         icon: fas fa-link
         description: ""
-      - name: 考试资料网_考试试题_考试题库_找答案就上考试资料网
-        url: https://www.ppkao.com/
-        icon: fas fa-link
-        description: ""
       - name: 勤学网 - 职业技能高效率在线自学平台
         url: http://www.qinxue.com/
         icon: fas fa-link
         description: ""
-      - name: 绘制精美的流程图、思维导图、信息图等 - 亿图软件官网
-        url: https://www.edrawsoft.cn/
+      - name: 考试资料网_考试试题_考试题库_找答案就上考试资料网
+        url: https://www.ppkao.com/
         icon: fas fa-link
         description: ""
       - name: Google Voice 靓号 / GV 靓号 / 美国靓号
