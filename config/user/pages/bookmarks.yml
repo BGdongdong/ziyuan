@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-09-08T07:04:47.062Z
+# 由bookmark-processor.js生成于 2025-09-09T01:20:16.358Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -3146,10 +3146,6 @@ categories:
         url: https://zhutix.com/
         icon: fas fa-link
         description: ""
-      - name: Smianao - 分享和软件有关的教程和技巧
-        url: https://www.smianao.com/
-        icon: fas fa-link
-        description: ""
       - name: 数码荔枝 x 软件商店 - 专注于分享最新鲜优秀的正版软件
         url: https://lizhi.shop/
         icon: fas fa-link
@@ -3158,8 +3154,8 @@ categories:
         url: https://www.mefcl.com/
         icon: fas fa-link
         description: ""
-      - name: 奇迹秀工具箱 - 设计师的百宝箱
-        url: https://www.qijishow.com/down/index.html
+      - name: 奇迹秀 - 因设计·而美丽
+        url: https://www.qijishow.com/
         icon: fas fa-link
         description: ""
       - name: 软库网 - 收藏实用、免费资源的软件仓库丨RuanKu.Net
@@ -3170,20 +3166,8 @@ categories:
         url: https://soft.3dmgame.com/
         icon: fas fa-link
         description: ""
-      - name: 奇迹秀 - 因设计·而美丽
-        url: https://www.qijishow.com/
-        icon: fas fa-link
-        description: ""
       - name: 福斯
         url: https://www.fosshub.com/
-        icon: fas fa-link
-        description: ""
-      - name: 马克喵_获取最新MAC破解软件
-        url: https://www.macat.vip/
-        icon: fas fa-link
-        description: ""
-      - name: Mac青桔网 - Mac软件下载站(MacQJ)
-        url: https://www.macqj.com/
         icon: fas fa-link
         description: ""
       - name: 0DayDown - 关注资讯
@@ -3194,24 +3178,16 @@ categories:
         url: https://www.minorpatch.com/
         icon: fas fa-link
         description: ""
-      - name: Mac毒 - Mac软件下载网站（奶酪网）
-        url: https://www.macdo.cn/
-        icon: fas fa-link
-        description: ""
       - name: App news and reviews, best software downloads and discovery - Softonic
         url: https://en.softonic.com/
         icon: fas fa-link
         description: ""
-      - name: 精品MAC应用分享
-        url: https://xclient.info/
-        icon: fas fa-link
-        description: ""
-      - name: 马可菠萝 - 分享你喜欢的MAC应用
-        url: https://www.macbl.com/
-        icon: fas fa-link
-        description: ""
       - name: 不死鸟 - 分享为王官网
         url: https://iui.su/
+        icon: fas fa-link
+        description: ""
+      - name: 精品MAC应用分享
+        url: https://xclient.info/
         icon: fas fa-link
         description: ""
       - name: 小众软件 - 分享免费、小巧、实用、有趣、绿色的软件
@@ -3222,8 +3198,20 @@ categories:
         url: https://www.ypojie.com/
         icon: fas fa-link
         description: ""
+      - name: Mac毒 - Mac软件下载网站（奶酪网）
+        url: https://www.macdo.cn/
+        icon: fas fa-link
+        description: ""
+      - name: 马可菠萝 - 分享你喜欢的MAC应用
+        url: https://www.macbl.com/
+        icon: fas fa-link
+        description: ""
       - name: 绿软下载站-IT猫扑网-绿色安全的软件下载联盟
         url: https://www.itmop.com/
+        icon: fas fa-link
+        description: ""
+      - name: Mac青桔网 - Mac软件下载站(MacQJ)
+        url: https://www.macqj.com/
         icon: fas fa-link
         description: ""
       - name: get8.top/vp.html
@@ -3232,6 +3220,10 @@ categories:
         description: ""
       - name: 在 iOS 和 Android 上免费调整应用程序
         url: https://appace.co/
+        icon: fas fa-link
+        description: ""
+      - name: 马克喵_获取最新MAC破解软件
+        url: https://www.macat.vip/
         icon: fas fa-link
         description: ""
       - name: 鹏少资源网 | 专注于精品软件收录分享
@@ -3260,6 +3252,10 @@ categories:
         description: ""
       - name: 异次元软件世界 - 软件改变生活！
         url: https://www.iplaysoft.com/
+        icon: fas fa-link
+        description: ""
+      - name: Smianao - 分享和软件有关的教程和技巧
+        url: https://www.smianao.com/
         icon: fas fa-link
         description: ""
       - name: appstorrent - игры и программы для macOS
