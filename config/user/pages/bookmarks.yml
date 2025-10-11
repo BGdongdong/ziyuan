@@ -1,5 +1,5 @@
 # 自动生成的书签配置文件
-# 由bookmark-processor.js生成于 2025-10-11T06:36:32.832Z
+# 由bookmark-processor.js生成于 2025-10-11T09:23:53.040Z
 # 若要更新，请将新的书签HTML文件放入bookmarks/目录
 # 此文件使用模块化配置格式，位于config/user/pages/目录下
 
@@ -246,6 +246,10 @@ categories:
         url: https://dash.bitznext.com/#/login
         icon: fas fa-link
         description: ""
+      - name: 商店 - 流量光机场
+        url: https://llg01.com/#/shop
+        icon: fas fa-link
+        description: ""
       - name: Speedify - Use all of your Internet connections at the same time
         url: https://speedify.com/
         icon: fas fa-link
@@ -364,6 +368,10 @@ categories:
         description: ""
       - name: 免费 VPN • 100% 免费 PPTP 和 OpenVPN 服务
         url: https://www.vpnbook.com/
+        icon: fas fa-link
+        description: ""
+      - name: 登入 - Mitce
+        url: https://mitce.net/login
         icon: fas fa-link
         description: ""
   - name: 已购
@@ -6437,5 +6445,9 @@ categories:
         description: ""
       - name: 《请客吃饭的逻辑》 - 梁文道 —— 一篇文字
         url: https://www.dumogu.top/
+        icon: fas fa-link
+        description: ""
+      - name: 峰哥探世界
+        url: https://feng800.blogspot.com/
         icon: fas fa-link
         description: ""
